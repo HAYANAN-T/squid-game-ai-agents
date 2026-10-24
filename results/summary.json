@@ -1,0 +1,41 @@
+{
+  "kind": "algorithmic_policy_simulation",
+  "tournaments": 250,
+  "featured_seed": 42,
+  "featured_winner": "Atlas",
+  "wins": {
+    "Atlas": 109,
+    "Coda": 41,
+    "Echo": 29,
+    "Mira": 29,
+    "Sentinel": 42
+  },
+  "median_policy_microseconds_by_agent": {
+    "Atlas": 175.01,
+    "Blitz": 219.27,
+    "Coda": 166.34,
+    "Echo": 180.98,
+    "Mira": 181.49,
+    "Sentinel": 151.29
+  },
+  "round_observations": {
+    "red_light": 1500,
+    "dalgona": 1250,
+    "tug_of_war": 1000,
+    "marbles": 750,
+    "glass_bridge": 500
+  },
+  "bridge_memory_mean_delta": 0.586,
+  "bridge_memory_mean_delta_by_agent": {
+    "Sentinel": 0.684,
+    "Coda": 0.36,
+    "Blitz": 0.248,
+    "Atlas": 1.052
+  },
+  "notes": [
+    "Virtual stop ticks are a logical clock, not measured seconds.",
+    "Measured microseconds are local Python policy execution, not LLM thinking time.",
+    "Round rank elimination makes tournament results sensitive to scoring and policy design.",
+    "No commercial model was queried; no causal generalization to LLMs."
+  ]
+}

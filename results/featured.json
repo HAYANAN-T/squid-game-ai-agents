@@ -1,0 +1,3791 @@
+{
+  "seed": 42,
+  "winner": "Atlas",
+  "rounds": [
+    {
+      "key": "red_light",
+      "label": "Red Light, Green Light",
+      "seed": 42,
+      "contestants": [
+        "Atlas",
+        "Blitz",
+        "Coda",
+        "Echo",
+        "Mira",
+        "Sentinel"
+      ],
+      "ranking": [
+        "Atlas",
+        "Sentinel",
+        "Coda",
+        "Echo",
+        "Mira",
+        "Blitz"
+      ],
+      "eliminated": "Blitz",
+      "scores": {
+        "Atlas": 18,
+        "Sentinel": 18,
+        "Coda": 16,
+        "Echo": 16,
+        "Mira": 14,
+        "Blitz": 14
+      },
+      "measured_policy_us": {
+        "Atlas": 475.94,
+        "Sentinel": 221.98,
+        "Coda": 254.12,
+        "Echo": 279.6,
+        "Mira": 217.45,
+        "Blitz": 308.62
+      },
+      "candidate_checks": {
+        "Atlas": 18,
+        "Sentinel": 18,
+        "Coda": 36,
+        "Echo": 54,
+        "Mira": 54,
+        "Blitz": 72
+      },
+      "remaining": [
+        "Atlas",
+        "Sentinel",
+        "Coda",
+        "Echo",
+        "Mira"
+      ],
+      "details": {
+        "Atlas": {
+          "score": 18,
+          "passes": 18,
+          "total": 18,
+          "mean_reaction_ticks": 1,
+          "events": [
+            {
+              "step": 1,
+              "light": "RED",
+              "deadline_virtual_ticks": 2,
+              "poll_interval_ticks": 1,
+              "phase_ticks": 0,
+              "reaction_virtual_ticks": 1,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 1 virtual tick(s); interruption observed after 1 tick(s).",
+              "candidate_checks": 1
+            },
+            {
+              "step": 2,
+              "light": "RED",
+              "deadline_virtual_ticks": 3,
+              "poll_interval_ticks": 1,
+              "phase_ticks": 0,
+              "reaction_virtual_ticks": 1,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 1 virtual tick(s); interruption observed after 1 tick(s).",
+              "candidate_checks": 1
+            },
+            {
+              "step": 3,
+              "light": "RED",
+              "deadline_virtual_ticks": 3,
+              "poll_interval_ticks": 1,
+              "phase_ticks": 0,
+              "reaction_virtual_ticks": 1,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 1 virtual tick(s); interruption observed after 1 tick(s).",
+              "candidate_checks": 1
+            },
+            {
+              "step": 4,
+              "light": "RED",
+              "deadline_virtual_ticks": 4,
+              "poll_interval_ticks": 1,
+              "phase_ticks": 0,
+              "reaction_virtual_ticks": 1,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 1 virtual tick(s); interruption observed after 1 tick(s).",
+              "candidate_checks": 1
+            },
+            {
+              "step": 5,
+              "light": "RED",
+              "deadline_virtual_ticks": 1,
+              "poll_interval_ticks": 1,
+              "phase_ticks": 0,
+              "reaction_virtual_ticks": 1,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 1 virtual tick(s); interruption observed after 1 tick(s).",
+              "candidate_checks": 1
+            },
+            {
+              "step": 6,
+              "light": "RED",
+              "deadline_virtual_ticks": 3,
+              "poll_interval_ticks": 1,
+              "phase_ticks": 0,
+              "reaction_virtual_ticks": 1,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 1 virtual tick(s); interruption observed after 1 tick(s).",
+              "candidate_checks": 1
+            },
+            {
+              "step": 7,
+              "light": "RED",
+              "deadline_virtual_ticks": 5,
+              "poll_interval_ticks": 1,
+              "phase_ticks": 0,
+              "reaction_virtual_ticks": 1,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 1 virtual tick(s); interruption observed after 1 tick(s).",
+              "candidate_checks": 1
+            },
+            {
+              "step": 8,
+              "light": "RED",
+              "deadline_virtual_ticks": 2,
+              "poll_interval_ticks": 1,
+              "phase_ticks": 0,
+              "reaction_virtual_ticks": 1,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 1 virtual tick(s); interruption observed after 1 tick(s).",
+              "candidate_checks": 1
+            },
+            {
+              "step": 9,
+              "light": "RED",
+              "deadline_virtual_ticks": 2,
+              "poll_interval_ticks": 1,
+              "phase_ticks": 0,
+              "reaction_virtual_ticks": 1,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 1 virtual tick(s); interruption observed after 1 tick(s).",
+              "candidate_checks": 1
+            },
+            {
+              "step": 10,
+              "light": "RED",
+              "deadline_virtual_ticks": 2,
+              "poll_interval_ticks": 1,
+              "phase_ticks": 0,
+              "reaction_virtual_ticks": 1,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 1 virtual tick(s); interruption observed after 1 tick(s).",
+              "candidate_checks": 1
+            },
+            {
+              "step": 11,
+              "light": "RED",
+              "deadline_virtual_ticks": 5,
+              "poll_interval_ticks": 1,
+              "phase_ticks": 0,
+              "reaction_virtual_ticks": 1,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 1 virtual tick(s); interruption observed after 1 tick(s).",
+              "candidate_checks": 1
+            },
+            {
+              "step": 12,
+              "light": "RED",
+              "deadline_virtual_ticks": 1,
+              "poll_interval_ticks": 1,
+              "phase_ticks": 0,
+              "reaction_virtual_ticks": 1,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 1 virtual tick(s); interruption observed after 1 tick(s).",
+              "candidate_checks": 1
+            },
+            {
+              "step": 13,
+              "light": "RED",
+              "deadline_virtual_ticks": 3,
+              "poll_interval_ticks": 1,
+              "phase_ticks": 0,
+              "reaction_virtual_ticks": 1,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 1 virtual tick(s); interruption observed after 1 tick(s).",
+              "candidate_checks": 1
+            },
+            {
+              "step": 14,
+              "light": "RED",
+              "deadline_virtual_ticks": 3,
+              "poll_interval_ticks": 1,
+              "phase_ticks": 0,
+              "reaction_virtual_ticks": 1,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 1 virtual tick(s); interruption observed after 1 tick(s).",
+              "candidate_checks": 1
+            },
+            {
+              "step": 15,
+              "light": "RED",
+              "deadline_virtual_ticks": 3,
+              "poll_interval_ticks": 1,
+              "phase_ticks": 0,
+              "reaction_virtual_ticks": 1,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 1 virtual tick(s); interruption observed after 1 tick(s).",
+              "candidate_checks": 1
+            },
+            {
+              "step": 16,
+              "light": "RED",
+              "deadline_virtual_ticks": 5,
+              "poll_interval_ticks": 1,
+              "phase_ticks": 0,
+              "reaction_virtual_ticks": 1,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 1 virtual tick(s); interruption observed after 1 tick(s).",
+              "candidate_checks": 1
+            },
+            {
+              "step": 17,
+              "light": "RED",
+              "deadline_virtual_ticks": 5,
+              "poll_interval_ticks": 1,
+              "phase_ticks": 0,
+              "reaction_virtual_ticks": 1,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 1 virtual tick(s); interruption observed after 1 tick(s).",
+              "candidate_checks": 1
+            },
+            {
+              "step": 18,
+              "light": "RED",
+              "deadline_virtual_ticks": 2,
+              "poll_interval_ticks": 1,
+              "phase_ticks": 0,
+              "reaction_virtual_ticks": 1,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 1 virtual tick(s); interruption observed after 1 tick(s).",
+              "candidate_checks": 1
+            }
+          ]
+        },
+        "Blitz": {
+          "score": 14,
+          "passes": 14,
+          "total": 18,
+          "mean_reaction_ticks": 2.611,
+          "events": [
+            {
+              "step": 1,
+              "light": "RED",
+              "deadline_virtual_ticks": 2,
+              "poll_interval_ticks": 4,
+              "phase_ticks": 0,
+              "reaction_virtual_ticks": 1,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 4 virtual tick(s); interruption observed after 1 tick(s).",
+              "candidate_checks": 4
+            },
+            {
+              "step": 2,
+              "light": "RED",
+              "deadline_virtual_ticks": 3,
+              "poll_interval_ticks": 4,
+              "phase_ticks": 0,
+              "reaction_virtual_ticks": 1,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 4 virtual tick(s); interruption observed after 1 tick(s).",
+              "candidate_checks": 4
+            },
+            {
+              "step": 3,
+              "light": "RED",
+              "deadline_virtual_ticks": 3,
+              "poll_interval_ticks": 4,
+              "phase_ticks": 2,
+              "reaction_virtual_ticks": 3,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 4 virtual tick(s); interruption observed after 3 tick(s).",
+              "candidate_checks": 4
+            },
+            {
+              "step": 4,
+              "light": "RED",
+              "deadline_virtual_ticks": 4,
+              "poll_interval_ticks": 4,
+              "phase_ticks": 3,
+              "reaction_virtual_ticks": 4,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 4 virtual tick(s); interruption observed after 4 tick(s).",
+              "candidate_checks": 4
+            },
+            {
+              "step": 5,
+              "light": "RED",
+              "deadline_virtual_ticks": 1,
+              "poll_interval_ticks": 4,
+              "phase_ticks": 1,
+              "reaction_virtual_ticks": 2,
+              "stopped_before_deadline": false,
+              "action": "MISSED_DEADLINE",
+              "explanation": "Polled every 4 virtual tick(s); interruption observed after 2 tick(s).",
+              "candidate_checks": 4
+            },
+            {
+              "step": 6,
+              "light": "RED",
+              "deadline_virtual_ticks": 3,
+              "poll_interval_ticks": 4,
+              "phase_ticks": 3,
+              "reaction_virtual_ticks": 4,
+              "stopped_before_deadline": false,
+              "action": "MISSED_DEADLINE",
+              "explanation": "Polled every 4 virtual tick(s); interruption observed after 4 tick(s).",
+              "candidate_checks": 4
+            },
+            {
+              "step": 7,
+              "light": "RED",
+              "deadline_virtual_ticks": 5,
+              "poll_interval_ticks": 4,
+              "phase_ticks": 3,
+              "reaction_virtual_ticks": 4,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 4 virtual tick(s); interruption observed after 4 tick(s).",
+              "candidate_checks": 4
+            },
+            {
+              "step": 8,
+              "light": "RED",
+              "deadline_virtual_ticks": 2,
+              "poll_interval_ticks": 4,
+              "phase_ticks": 3,
+              "reaction_virtual_ticks": 4,
+              "stopped_before_deadline": false,
+              "action": "MISSED_DEADLINE",
+              "explanation": "Polled every 4 virtual tick(s); interruption observed after 4 tick(s).",
+              "candidate_checks": 4
+            },
+            {
+              "step": 9,
+              "light": "RED",
+              "deadline_virtual_ticks": 2,
+              "poll_interval_ticks": 4,
+              "phase_ticks": 1,
+              "reaction_virtual_ticks": 2,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 4 virtual tick(s); interruption observed after 2 tick(s).",
+              "candidate_checks": 4
+            },
+            {
+              "step": 10,
+              "light": "RED",
+              "deadline_virtual_ticks": 2,
+              "poll_interval_ticks": 4,
+              "phase_ticks": 1,
+              "reaction_virtual_ticks": 2,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 4 virtual tick(s); interruption observed after 2 tick(s).",
+              "candidate_checks": 4
+            },
+            {
+              "step": 11,
+              "light": "RED",
+              "deadline_virtual_ticks": 5,
+              "poll_interval_ticks": 4,
+              "phase_ticks": 3,
+              "reaction_virtual_ticks": 4,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 4 virtual tick(s); interruption observed after 4 tick(s).",
+              "candidate_checks": 4
+            },
+            {
+              "step": 12,
+              "light": "RED",
+              "deadline_virtual_ticks": 1,
+              "poll_interval_ticks": 4,
+              "phase_ticks": 0,
+              "reaction_virtual_ticks": 1,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 4 virtual tick(s); interruption observed after 1 tick(s).",
+              "candidate_checks": 4
+            },
+            {
+              "step": 13,
+              "light": "RED",
+              "deadline_virtual_ticks": 3,
+              "poll_interval_ticks": 4,
+              "phase_ticks": 0,
+              "reaction_virtual_ticks": 1,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 4 virtual tick(s); interruption observed after 1 tick(s).",
+              "candidate_checks": 4
+            },
+            {
+              "step": 14,
+              "light": "RED",
+              "deadline_virtual_ticks": 3,
+              "poll_interval_ticks": 4,
+              "phase_ticks": 2,
+              "reaction_virtual_ticks": 3,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 4 virtual tick(s); interruption observed after 3 tick(s).",
+              "candidate_checks": 4
+            },
+            {
+              "step": 15,
+              "light": "RED",
+              "deadline_virtual_ticks": 3,
+              "poll_interval_ticks": 4,
+              "phase_ticks": 3,
+              "reaction_virtual_ticks": 4,
+              "stopped_before_deadline": false,
+              "action": "MISSED_DEADLINE",
+              "explanation": "Polled every 4 virtual tick(s); interruption observed after 4 tick(s).",
+              "candidate_checks": 4
+            },
+            {
+              "step": 16,
+              "light": "RED",
+              "deadline_virtual_ticks": 5,
+              "poll_interval_ticks": 4,
+              "phase_ticks": 3,
+              "reaction_virtual_ticks": 4,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 4 virtual tick(s); interruption observed after 4 tick(s).",
+              "candidate_checks": 4
+            },
+            {
+              "step": 17,
+              "light": "RED",
+              "deadline_virtual_ticks": 5,
+              "poll_interval_ticks": 4,
+              "phase_ticks": 0,
+              "reaction_virtual_ticks": 1,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 4 virtual tick(s); interruption observed after 1 tick(s).",
+              "candidate_checks": 4
+            },
+            {
+              "step": 18,
+              "light": "RED",
+              "deadline_virtual_ticks": 2,
+              "poll_interval_ticks": 4,
+              "phase_ticks": 1,
+              "reaction_virtual_ticks": 2,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 4 virtual tick(s); interruption observed after 2 tick(s).",
+              "candidate_checks": 4
+            }
+          ]
+        },
+        "Coda": {
+          "score": 16,
+          "passes": 16,
+          "total": 18,
+          "mean_reaction_ticks": 1.444,
+          "events": [
+            {
+              "step": 1,
+              "light": "RED",
+              "deadline_virtual_ticks": 2,
+              "poll_interval_ticks": 2,
+              "phase_ticks": 0,
+              "reaction_virtual_ticks": 1,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 2 virtual tick(s); interruption observed after 1 tick(s).",
+              "candidate_checks": 2
+            },
+            {
+              "step": 2,
+              "light": "RED",
+              "deadline_virtual_ticks": 3,
+              "poll_interval_ticks": 2,
+              "phase_ticks": 0,
+              "reaction_virtual_ticks": 1,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 2 virtual tick(s); interruption observed after 1 tick(s).",
+              "candidate_checks": 2
+            },
+            {
+              "step": 3,
+              "light": "RED",
+              "deadline_virtual_ticks": 3,
+              "poll_interval_ticks": 2,
+              "phase_ticks": 0,
+              "reaction_virtual_ticks": 1,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 2 virtual tick(s); interruption observed after 1 tick(s).",
+              "candidate_checks": 2
+            },
+            {
+              "step": 4,
+              "light": "RED",
+              "deadline_virtual_ticks": 4,
+              "poll_interval_ticks": 2,
+              "phase_ticks": 1,
+              "reaction_virtual_ticks": 2,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 2 virtual tick(s); interruption observed after 2 tick(s).",
+              "candidate_checks": 2
+            },
+            {
+              "step": 5,
+              "light": "RED",
+              "deadline_virtual_ticks": 1,
+              "poll_interval_ticks": 2,
+              "phase_ticks": 1,
+              "reaction_virtual_ticks": 2,
+              "stopped_before_deadline": false,
+              "action": "MISSED_DEADLINE",
+              "explanation": "Polled every 2 virtual tick(s); interruption observed after 2 tick(s).",
+              "candidate_checks": 2
+            },
+            {
+              "step": 6,
+              "light": "RED",
+              "deadline_virtual_ticks": 3,
+              "poll_interval_ticks": 2,
+              "phase_ticks": 1,
+              "reaction_virtual_ticks": 2,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 2 virtual tick(s); interruption observed after 2 tick(s).",
+              "candidate_checks": 2
+            },
+            {
+              "step": 7,
+              "light": "RED",
+              "deadline_virtual_ticks": 5,
+              "poll_interval_ticks": 2,
+              "phase_ticks": 1,
+              "reaction_virtual_ticks": 2,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 2 virtual tick(s); interruption observed after 2 tick(s).",
+              "candidate_checks": 2
+            },
+            {
+              "step": 8,
+              "light": "RED",
+              "deadline_virtual_ticks": 2,
+              "poll_interval_ticks": 2,
+              "phase_ticks": 0,
+              "reaction_virtual_ticks": 1,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 2 virtual tick(s); interruption observed after 1 tick(s).",
+              "candidate_checks": 2
+            },
+            {
+              "step": 9,
+              "light": "RED",
+              "deadline_virtual_ticks": 2,
+              "poll_interval_ticks": 2,
+              "phase_ticks": 1,
+              "reaction_virtual_ticks": 2,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 2 virtual tick(s); interruption observed after 2 tick(s).",
+              "candidate_checks": 2
+            },
+            {
+              "step": 10,
+              "light": "RED",
+              "deadline_virtual_ticks": 2,
+              "poll_interval_ticks": 2,
+              "phase_ticks": 0,
+              "reaction_virtual_ticks": 1,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 2 virtual tick(s); interruption observed after 1 tick(s).",
+              "candidate_checks": 2
+            },
+            {
+              "step": 11,
+              "light": "RED",
+              "deadline_virtual_ticks": 5,
+              "poll_interval_ticks": 2,
+              "phase_ticks": 0,
+              "reaction_virtual_ticks": 1,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 2 virtual tick(s); interruption observed after 1 tick(s).",
+              "candidate_checks": 2
+            },
+            {
+              "step": 12,
+              "light": "RED",
+              "deadline_virtual_ticks": 1,
+              "poll_interval_ticks": 2,
+              "phase_ticks": 1,
+              "reaction_virtual_ticks": 2,
+              "stopped_before_deadline": false,
+              "action": "MISSED_DEADLINE",
+              "explanation": "Polled every 2 virtual tick(s); interruption observed after 2 tick(s).",
+              "candidate_checks": 2
+            },
+            {
+              "step": 13,
+              "light": "RED",
+              "deadline_virtual_ticks": 3,
+              "poll_interval_ticks": 2,
+              "phase_ticks": 0,
+              "reaction_virtual_ticks": 1,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 2 virtual tick(s); interruption observed after 1 tick(s).",
+              "candidate_checks": 2
+            },
+            {
+              "step": 14,
+              "light": "RED",
+              "deadline_virtual_ticks": 3,
+              "poll_interval_ticks": 2,
+              "phase_ticks": 1,
+              "reaction_virtual_ticks": 2,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 2 virtual tick(s); interruption observed after 2 tick(s).",
+              "candidate_checks": 2
+            },
+            {
+              "step": 15,
+              "light": "RED",
+              "deadline_virtual_ticks": 3,
+              "poll_interval_ticks": 2,
+              "phase_ticks": 1,
+              "reaction_virtual_ticks": 2,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 2 virtual tick(s); interruption observed after 2 tick(s).",
+              "candidate_checks": 2
+            },
+            {
+              "step": 16,
+              "light": "RED",
+              "deadline_virtual_ticks": 5,
+              "poll_interval_ticks": 2,
+              "phase_ticks": 0,
+              "reaction_virtual_ticks": 1,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 2 virtual tick(s); interruption observed after 1 tick(s).",
+              "candidate_checks": 2
+            },
+            {
+              "step": 17,
+              "light": "RED",
+              "deadline_virtual_ticks": 5,
+              "poll_interval_ticks": 2,
+              "phase_ticks": 0,
+              "reaction_virtual_ticks": 1,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 2 virtual tick(s); interruption observed after 1 tick(s).",
+              "candidate_checks": 2
+            },
+            {
+              "step": 18,
+              "light": "RED",
+              "deadline_virtual_ticks": 2,
+              "poll_interval_ticks": 2,
+              "phase_ticks": 0,
+              "reaction_virtual_ticks": 1,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 2 virtual tick(s); interruption observed after 1 tick(s).",
+              "candidate_checks": 2
+            }
+          ]
+        },
+        "Echo": {
+          "score": 16,
+          "passes": 16,
+          "total": 18,
+          "mean_reaction_ticks": 2.111,
+          "events": [
+            {
+              "step": 1,
+              "light": "RED",
+              "deadline_virtual_ticks": 2,
+              "poll_interval_ticks": 3,
+              "phase_ticks": 0,
+              "reaction_virtual_ticks": 1,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 3 virtual tick(s); interruption observed after 1 tick(s).",
+              "candidate_checks": 3
+            },
+            {
+              "step": 2,
+              "light": "RED",
+              "deadline_virtual_ticks": 3,
+              "poll_interval_ticks": 3,
+              "phase_ticks": 2,
+              "reaction_virtual_ticks": 3,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 3 virtual tick(s); interruption observed after 3 tick(s).",
+              "candidate_checks": 3
+            },
+            {
+              "step": 3,
+              "light": "RED",
+              "deadline_virtual_ticks": 3,
+              "poll_interval_ticks": 3,
+              "phase_ticks": 2,
+              "reaction_virtual_ticks": 3,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 3 virtual tick(s); interruption observed after 3 tick(s).",
+              "candidate_checks": 3
+            },
+            {
+              "step": 4,
+              "light": "RED",
+              "deadline_virtual_ticks": 4,
+              "poll_interval_ticks": 3,
+              "phase_ticks": 0,
+              "reaction_virtual_ticks": 1,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 3 virtual tick(s); interruption observed after 1 tick(s).",
+              "candidate_checks": 3
+            },
+            {
+              "step": 5,
+              "light": "RED",
+              "deadline_virtual_ticks": 1,
+              "poll_interval_ticks": 3,
+              "phase_ticks": 1,
+              "reaction_virtual_ticks": 2,
+              "stopped_before_deadline": false,
+              "action": "MISSED_DEADLINE",
+              "explanation": "Polled every 3 virtual tick(s); interruption observed after 2 tick(s).",
+              "candidate_checks": 3
+            },
+            {
+              "step": 6,
+              "light": "RED",
+              "deadline_virtual_ticks": 3,
+              "poll_interval_ticks": 3,
+              "phase_ticks": 0,
+              "reaction_virtual_ticks": 1,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 3 virtual tick(s); interruption observed after 1 tick(s).",
+              "candidate_checks": 3
+            },
+            {
+              "step": 7,
+              "light": "RED",
+              "deadline_virtual_ticks": 5,
+              "poll_interval_ticks": 3,
+              "phase_ticks": 1,
+              "reaction_virtual_ticks": 2,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 3 virtual tick(s); interruption observed after 2 tick(s).",
+              "candidate_checks": 3
+            },
+            {
+              "step": 8,
+              "light": "RED",
+              "deadline_virtual_ticks": 2,
+              "poll_interval_ticks": 3,
+              "phase_ticks": 1,
+              "reaction_virtual_ticks": 2,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 3 virtual tick(s); interruption observed after 2 tick(s).",
+              "candidate_checks": 3
+            },
+            {
+              "step": 9,
+              "light": "RED",
+              "deadline_virtual_ticks": 2,
+              "poll_interval_ticks": 3,
+              "phase_ticks": 1,
+              "reaction_virtual_ticks": 2,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 3 virtual tick(s); interruption observed after 2 tick(s).",
+              "candidate_checks": 3
+            },
+            {
+              "step": 10,
+              "light": "RED",
+              "deadline_virtual_ticks": 2,
+              "poll_interval_ticks": 3,
+              "phase_ticks": 1,
+              "reaction_virtual_ticks": 2,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 3 virtual tick(s); interruption observed after 2 tick(s).",
+              "candidate_checks": 3
+            },
+            {
+              "step": 11,
+              "light": "RED",
+              "deadline_virtual_ticks": 5,
+              "poll_interval_ticks": 3,
+              "phase_ticks": 2,
+              "reaction_virtual_ticks": 3,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 3 virtual tick(s); interruption observed after 3 tick(s).",
+              "candidate_checks": 3
+            },
+            {
+              "step": 12,
+              "light": "RED",
+              "deadline_virtual_ticks": 1,
+              "poll_interval_ticks": 3,
+              "phase_ticks": 1,
+              "reaction_virtual_ticks": 2,
+              "stopped_before_deadline": false,
+              "action": "MISSED_DEADLINE",
+              "explanation": "Polled every 3 virtual tick(s); interruption observed after 2 tick(s).",
+              "candidate_checks": 3
+            },
+            {
+              "step": 13,
+              "light": "RED",
+              "deadline_virtual_ticks": 3,
+              "poll_interval_ticks": 3,
+              "phase_ticks": 2,
+              "reaction_virtual_ticks": 3,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 3 virtual tick(s); interruption observed after 3 tick(s).",
+              "candidate_checks": 3
+            },
+            {
+              "step": 14,
+              "light": "RED",
+              "deadline_virtual_ticks": 3,
+              "poll_interval_ticks": 3,
+              "phase_ticks": 1,
+              "reaction_virtual_ticks": 2,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 3 virtual tick(s); interruption observed after 2 tick(s).",
+              "candidate_checks": 3
+            },
+            {
+              "step": 15,
+              "light": "RED",
+              "deadline_virtual_ticks": 3,
+              "poll_interval_ticks": 3,
+              "phase_ticks": 0,
+              "reaction_virtual_ticks": 1,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 3 virtual tick(s); interruption observed after 1 tick(s).",
+              "candidate_checks": 3
+            },
+            {
+              "step": 16,
+              "light": "RED",
+              "deadline_virtual_ticks": 5,
+              "poll_interval_ticks": 3,
+              "phase_ticks": 2,
+              "reaction_virtual_ticks": 3,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 3 virtual tick(s); interruption observed after 3 tick(s).",
+              "candidate_checks": 3
+            },
+            {
+              "step": 17,
+              "light": "RED",
+              "deadline_virtual_ticks": 5,
+              "poll_interval_ticks": 3,
+              "phase_ticks": 2,
+              "reaction_virtual_ticks": 3,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 3 virtual tick(s); interruption observed after 3 tick(s).",
+              "candidate_checks": 3
+            },
+            {
+              "step": 18,
+              "light": "RED",
+              "deadline_virtual_ticks": 2,
+              "poll_interval_ticks": 3,
+              "phase_ticks": 1,
+              "reaction_virtual_ticks": 2,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 3 virtual tick(s); interruption observed after 2 tick(s).",
+              "candidate_checks": 3
+            }
+          ]
+        },
+        "Mira": {
+          "score": 14,
+          "passes": 14,
+          "total": 18,
+          "mean_reaction_ticks": 2.222,
+          "events": [
+            {
+              "step": 1,
+              "light": "RED",
+              "deadline_virtual_ticks": 2,
+              "poll_interval_ticks": 3,
+              "phase_ticks": 2,
+              "reaction_virtual_ticks": 3,
+              "stopped_before_deadline": false,
+              "action": "MISSED_DEADLINE",
+              "explanation": "Polled every 3 virtual tick(s); interruption observed after 3 tick(s).",
+              "candidate_checks": 3
+            },
+            {
+              "step": 2,
+              "light": "RED",
+              "deadline_virtual_ticks": 3,
+              "poll_interval_ticks": 3,
+              "phase_ticks": 0,
+              "reaction_virtual_ticks": 1,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 3 virtual tick(s); interruption observed after 1 tick(s).",
+              "candidate_checks": 3
+            },
+            {
+              "step": 3,
+              "light": "RED",
+              "deadline_virtual_ticks": 3,
+              "poll_interval_ticks": 3,
+              "phase_ticks": 1,
+              "reaction_virtual_ticks": 2,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 3 virtual tick(s); interruption observed after 2 tick(s).",
+              "candidate_checks": 3
+            },
+            {
+              "step": 4,
+              "light": "RED",
+              "deadline_virtual_ticks": 4,
+              "poll_interval_ticks": 3,
+              "phase_ticks": 1,
+              "reaction_virtual_ticks": 2,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 3 virtual tick(s); interruption observed after 2 tick(s).",
+              "candidate_checks": 3
+            },
+            {
+              "step": 5,
+              "light": "RED",
+              "deadline_virtual_ticks": 1,
+              "poll_interval_ticks": 3,
+              "phase_ticks": 2,
+              "reaction_virtual_ticks": 3,
+              "stopped_before_deadline": false,
+              "action": "MISSED_DEADLINE",
+              "explanation": "Polled every 3 virtual tick(s); interruption observed after 3 tick(s).",
+              "candidate_checks": 3
+            },
+            {
+              "step": 6,
+              "light": "RED",
+              "deadline_virtual_ticks": 3,
+              "poll_interval_ticks": 3,
+              "phase_ticks": 2,
+              "reaction_virtual_ticks": 3,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 3 virtual tick(s); interruption observed after 3 tick(s).",
+              "candidate_checks": 3
+            },
+            {
+              "step": 7,
+              "light": "RED",
+              "deadline_virtual_ticks": 5,
+              "poll_interval_ticks": 3,
+              "phase_ticks": 2,
+              "reaction_virtual_ticks": 3,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 3 virtual tick(s); interruption observed after 3 tick(s).",
+              "candidate_checks": 3
+            },
+            {
+              "step": 8,
+              "light": "RED",
+              "deadline_virtual_ticks": 2,
+              "poll_interval_ticks": 3,
+              "phase_ticks": 1,
+              "reaction_virtual_ticks": 2,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 3 virtual tick(s); interruption observed after 2 tick(s).",
+              "candidate_checks": 3
+            },
+            {
+              "step": 9,
+              "light": "RED",
+              "deadline_virtual_ticks": 2,
+              "poll_interval_ticks": 3,
+              "phase_ticks": 1,
+              "reaction_virtual_ticks": 2,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 3 virtual tick(s); interruption observed after 2 tick(s).",
+              "candidate_checks": 3
+            },
+            {
+              "step": 10,
+              "light": "RED",
+              "deadline_virtual_ticks": 2,
+              "poll_interval_ticks": 3,
+              "phase_ticks": 2,
+              "reaction_virtual_ticks": 3,
+              "stopped_before_deadline": false,
+              "action": "MISSED_DEADLINE",
+              "explanation": "Polled every 3 virtual tick(s); interruption observed after 3 tick(s).",
+              "candidate_checks": 3
+            },
+            {
+              "step": 11,
+              "light": "RED",
+              "deadline_virtual_ticks": 5,
+              "poll_interval_ticks": 3,
+              "phase_ticks": 1,
+              "reaction_virtual_ticks": 2,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 3 virtual tick(s); interruption observed after 2 tick(s).",
+              "candidate_checks": 3
+            },
+            {
+              "step": 12,
+              "light": "RED",
+              "deadline_virtual_ticks": 1,
+              "poll_interval_ticks": 3,
+              "phase_ticks": 0,
+              "reaction_virtual_ticks": 1,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 3 virtual tick(s); interruption observed after 1 tick(s).",
+              "candidate_checks": 3
+            },
+            {
+              "step": 13,
+              "light": "RED",
+              "deadline_virtual_ticks": 3,
+              "poll_interval_ticks": 3,
+              "phase_ticks": 2,
+              "reaction_virtual_ticks": 3,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 3 virtual tick(s); interruption observed after 3 tick(s).",
+              "candidate_checks": 3
+            },
+            {
+              "step": 14,
+              "light": "RED",
+              "deadline_virtual_ticks": 3,
+              "poll_interval_ticks": 3,
+              "phase_ticks": 1,
+              "reaction_virtual_ticks": 2,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 3 virtual tick(s); interruption observed after 2 tick(s).",
+              "candidate_checks": 3
+            },
+            {
+              "step": 15,
+              "light": "RED",
+              "deadline_virtual_ticks": 3,
+              "poll_interval_ticks": 3,
+              "phase_ticks": 0,
+              "reaction_virtual_ticks": 1,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 3 virtual tick(s); interruption observed after 1 tick(s).",
+              "candidate_checks": 3
+            },
+            {
+              "step": 16,
+              "light": "RED",
+              "deadline_virtual_ticks": 5,
+              "poll_interval_ticks": 3,
+              "phase_ticks": 0,
+              "reaction_virtual_ticks": 1,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 3 virtual tick(s); interruption observed after 1 tick(s).",
+              "candidate_checks": 3
+            },
+            {
+              "step": 17,
+              "light": "RED",
+              "deadline_virtual_ticks": 5,
+              "poll_interval_ticks": 3,
+              "phase_ticks": 2,
+              "reaction_virtual_ticks": 3,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 3 virtual tick(s); interruption observed after 3 tick(s).",
+              "candidate_checks": 3
+            },
+            {
+              "step": 18,
+              "light": "RED",
+              "deadline_virtual_ticks": 2,
+              "poll_interval_ticks": 3,
+              "phase_ticks": 2,
+              "reaction_virtual_ticks": 3,
+              "stopped_before_deadline": false,
+              "action": "MISSED_DEADLINE",
+              "explanation": "Polled every 3 virtual tick(s); interruption observed after 3 tick(s).",
+              "candidate_checks": 3
+            }
+          ]
+        },
+        "Sentinel": {
+          "score": 18,
+          "passes": 18,
+          "total": 18,
+          "mean_reaction_ticks": 1,
+          "events": [
+            {
+              "step": 1,
+              "light": "RED",
+              "deadline_virtual_ticks": 2,
+              "poll_interval_ticks": 1,
+              "phase_ticks": 0,
+              "reaction_virtual_ticks": 1,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 1 virtual tick(s); interruption observed after 1 tick(s).",
+              "candidate_checks": 1
+            },
+            {
+              "step": 2,
+              "light": "RED",
+              "deadline_virtual_ticks": 3,
+              "poll_interval_ticks": 1,
+              "phase_ticks": 0,
+              "reaction_virtual_ticks": 1,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 1 virtual tick(s); interruption observed after 1 tick(s).",
+              "candidate_checks": 1
+            },
+            {
+              "step": 3,
+              "light": "RED",
+              "deadline_virtual_ticks": 3,
+              "poll_interval_ticks": 1,
+              "phase_ticks": 0,
+              "reaction_virtual_ticks": 1,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 1 virtual tick(s); interruption observed after 1 tick(s).",
+              "candidate_checks": 1
+            },
+            {
+              "step": 4,
+              "light": "RED",
+              "deadline_virtual_ticks": 4,
+              "poll_interval_ticks": 1,
+              "phase_ticks": 0,
+              "reaction_virtual_ticks": 1,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 1 virtual tick(s); interruption observed after 1 tick(s).",
+              "candidate_checks": 1
+            },
+            {
+              "step": 5,
+              "light": "RED",
+              "deadline_virtual_ticks": 1,
+              "poll_interval_ticks": 1,
+              "phase_ticks": 0,
+              "reaction_virtual_ticks": 1,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 1 virtual tick(s); interruption observed after 1 tick(s).",
+              "candidate_checks": 1
+            },
+            {
+              "step": 6,
+              "light": "RED",
+              "deadline_virtual_ticks": 3,
+              "poll_interval_ticks": 1,
+              "phase_ticks": 0,
+              "reaction_virtual_ticks": 1,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 1 virtual tick(s); interruption observed after 1 tick(s).",
+              "candidate_checks": 1
+            },
+            {
+              "step": 7,
+              "light": "RED",
+              "deadline_virtual_ticks": 5,
+              "poll_interval_ticks": 1,
+              "phase_ticks": 0,
+              "reaction_virtual_ticks": 1,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 1 virtual tick(s); interruption observed after 1 tick(s).",
+              "candidate_checks": 1
+            },
+            {
+              "step": 8,
+              "light": "RED",
+              "deadline_virtual_ticks": 2,
+              "poll_interval_ticks": 1,
+              "phase_ticks": 0,
+              "reaction_virtual_ticks": 1,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 1 virtual tick(s); interruption observed after 1 tick(s).",
+              "candidate_checks": 1
+            },
+            {
+              "step": 9,
+              "light": "RED",
+              "deadline_virtual_ticks": 2,
+              "poll_interval_ticks": 1,
+              "phase_ticks": 0,
+              "reaction_virtual_ticks": 1,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 1 virtual tick(s); interruption observed after 1 tick(s).",
+              "candidate_checks": 1
+            },
+            {
+              "step": 10,
+              "light": "RED",
+              "deadline_virtual_ticks": 2,
+              "poll_interval_ticks": 1,
+              "phase_ticks": 0,
+              "reaction_virtual_ticks": 1,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 1 virtual tick(s); interruption observed after 1 tick(s).",
+              "candidate_checks": 1
+            },
+            {
+              "step": 11,
+              "light": "RED",
+              "deadline_virtual_ticks": 5,
+              "poll_interval_ticks": 1,
+              "phase_ticks": 0,
+              "reaction_virtual_ticks": 1,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 1 virtual tick(s); interruption observed after 1 tick(s).",
+              "candidate_checks": 1
+            },
+            {
+              "step": 12,
+              "light": "RED",
+              "deadline_virtual_ticks": 1,
+              "poll_interval_ticks": 1,
+              "phase_ticks": 0,
+              "reaction_virtual_ticks": 1,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 1 virtual tick(s); interruption observed after 1 tick(s).",
+              "candidate_checks": 1
+            },
+            {
+              "step": 13,
+              "light": "RED",
+              "deadline_virtual_ticks": 3,
+              "poll_interval_ticks": 1,
+              "phase_ticks": 0,
+              "reaction_virtual_ticks": 1,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 1 virtual tick(s); interruption observed after 1 tick(s).",
+              "candidate_checks": 1
+            },
+            {
+              "step": 14,
+              "light": "RED",
+              "deadline_virtual_ticks": 3,
+              "poll_interval_ticks": 1,
+              "phase_ticks": 0,
+              "reaction_virtual_ticks": 1,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 1 virtual tick(s); interruption observed after 1 tick(s).",
+              "candidate_checks": 1
+            },
+            {
+              "step": 15,
+              "light": "RED",
+              "deadline_virtual_ticks": 3,
+              "poll_interval_ticks": 1,
+              "phase_ticks": 0,
+              "reaction_virtual_ticks": 1,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 1 virtual tick(s); interruption observed after 1 tick(s).",
+              "candidate_checks": 1
+            },
+            {
+              "step": 16,
+              "light": "RED",
+              "deadline_virtual_ticks": 5,
+              "poll_interval_ticks": 1,
+              "phase_ticks": 0,
+              "reaction_virtual_ticks": 1,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 1 virtual tick(s); interruption observed after 1 tick(s).",
+              "candidate_checks": 1
+            },
+            {
+              "step": 17,
+              "light": "RED",
+              "deadline_virtual_ticks": 5,
+              "poll_interval_ticks": 1,
+              "phase_ticks": 0,
+              "reaction_virtual_ticks": 1,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 1 virtual tick(s); interruption observed after 1 tick(s).",
+              "candidate_checks": 1
+            },
+            {
+              "step": 18,
+              "light": "RED",
+              "deadline_virtual_ticks": 2,
+              "poll_interval_ticks": 1,
+              "phase_ticks": 0,
+              "reaction_virtual_ticks": 1,
+              "stopped_before_deadline": true,
+              "action": "CANCELLED",
+              "explanation": "Polled every 1 virtual tick(s); interruption observed after 1 tick(s).",
+              "candidate_checks": 1
+            }
+          ]
+        }
+      }
+    },
+    {
+      "key": "dalgona",
+      "label": "Dalgona",
+      "seed": 42,
+      "contestants": [
+        "Atlas",
+        "Coda",
+        "Echo",
+        "Mira",
+        "Sentinel"
+      ],
+      "ranking": [
+        "Sentinel",
+        "Atlas",
+        "Coda",
+        "Echo",
+        "Mira"
+      ],
+      "eliminated": "Mira",
+      "scores": {
+        "Sentinel": 18,
+        "Atlas": 18,
+        "Coda": 18,
+        "Echo": 16,
+        "Mira": 16
+      },
+      "measured_policy_us": {
+        "Sentinel": 186.99,
+        "Atlas": 228.66,
+        "Coda": 160.51,
+        "Echo": 228.22,
+        "Mira": 161.46
+      },
+      "candidate_checks": {
+        "Sentinel": 36,
+        "Atlas": 36,
+        "Coda": 36,
+        "Echo": 36,
+        "Mira": 36
+      },
+      "remaining": [
+        "Sentinel",
+        "Atlas",
+        "Coda",
+        "Echo"
+      ],
+      "details": {
+        "Atlas": {
+          "score": 18,
+          "exact_matches": 18,
+          "total": 18,
+          "events": [
+            {
+              "step": 1,
+              "expected": "{\"status\":\"OK\",\"value\":7}",
+              "actual": "{\"status\":\"OK\",\"value\":7}",
+              "error": "none",
+              "valid_json_schema": true,
+              "exact_contract": true,
+              "action": "ACCEPTED",
+              "explanation": "Exact bytes and correct value required; syntactic JSON alone is insufficient.",
+              "candidate_checks": 2
+            },
+            {
+              "step": 2,
+              "expected": "{\"status\":\"OK\",\"value\":10}",
+              "actual": "{\"status\":\"OK\",\"value\":10}",
+              "error": "none",
+              "valid_json_schema": true,
+              "exact_contract": true,
+              "action": "ACCEPTED",
+              "explanation": "Exact bytes and correct value required; syntactic JSON alone is insufficient.",
+              "candidate_checks": 2
+            },
+            {
+              "step": 3,
+              "expected": "{\"status\":\"OK\",\"value\":13}",
+              "actual": "{\"status\":\"OK\",\"value\":13}",
+              "error": "none",
+              "valid_json_schema": true,
+              "exact_contract": true,
+              "action": "ACCEPTED",
+              "explanation": "Exact bytes and correct value required; syntactic JSON alone is insufficient.",
+              "candidate_checks": 2
+            },
+            {
+              "step": 4,
+              "expected": "{\"status\":\"OK\",\"value\":16}",
+              "actual": "{\"status\":\"OK\",\"value\":16}",
+              "error": "none",
+              "valid_json_schema": true,
+              "exact_contract": true,
+              "action": "ACCEPTED",
+              "explanation": "Exact bytes and correct value required; syntactic JSON alone is insufficient.",
+              "candidate_checks": 2
+            },
+            {
+              "step": 5,
+              "expected": "{\"status\":\"OK\",\"value\":19}",
+              "actual": "{\"status\":\"OK\",\"value\":19}",
+              "error": "none",
+              "valid_json_schema": true,
+              "exact_contract": true,
+              "action": "ACCEPTED",
+              "explanation": "Exact bytes and correct value required; syntactic JSON alone is insufficient.",
+              "candidate_checks": 2
+            },
+            {
+              "step": 6,
+              "expected": "{\"status\":\"OK\",\"value\":22}",
+              "actual": "{\"status\":\"OK\",\"value\":22}",
+              "error": "none",
+              "valid_json_schema": true,
+              "exact_contract": true,
+              "action": "ACCEPTED",
+              "explanation": "Exact bytes and correct value required; syntactic JSON alone is insufficient.",
+              "candidate_checks": 2
+            },
+            {
+              "step": 7,
+              "expected": "{\"status\":\"OK\",\"value\":25}",
+              "actual": "{\"status\":\"OK\",\"value\":25}",
+              "error": "none",
+              "valid_json_schema": true,
+              "exact_contract": true,
+              "action": "ACCEPTED",
+              "explanation": "Exact bytes and correct value required; syntactic JSON alone is insufficient.",
+              "candidate_checks": 2
+            },
+            {
+              "step": 8,
+              "expected": "{\"status\":\"OK\",\"value\":28}",
+              "actual": "{\"status\":\"OK\",\"value\":28}",
+              "error": "none",
+              "valid_json_schema": true,
+              "exact_contract": true,
+              "action": "ACCEPTED",
+              "explanation": "Exact bytes and correct value required; syntactic JSON alone is insufficient.",
+              "candidate_checks": 2
+            },
+            {
+              "step": 9,
+              "expected": "{\"status\":\"OK\",\"value\":31}",
+              "actual": "{\"status\":\"OK\",\"value\":31}",
+              "error": "none",
+              "valid_json_schema": true,
+              "exact_contract": true,
+              "action": "ACCEPTED",
+              "explanation": "Exact bytes and correct value required; syntactic JSON alone is insufficient.",
+              "candidate_checks": 2
+            },
+            {
+              "step": 10,
+              "expected": "{\"status\":\"OK\",\"value\":34}",
+              "actual": "{\"status\":\"OK\",\"value\":34}",
+              "error": "none",
+              "valid_json_schema": true,
+              "exact_contract": true,
+              "action": "ACCEPTED",
+              "explanation": "Exact bytes and correct value required; syntactic JSON alone is insufficient.",
+              "candidate_checks": 2
+            },
+            {
+              "step": 11,
+              "expected": "{\"status\":\"OK\",\"value\":37}",
+              "actual": "{\"status\":\"OK\",\"value\":37}",
+              "error": "none",
+              "valid_json_schema": true,
+              "exact_contract": true,
+              "action": "ACCEPTED",
+              "explanation": "Exact bytes and correct value required; syntactic JSON alone is insufficient.",
+              "candidate_checks": 2
+            },
+            {
+              "step": 12,
+              "expected": "{\"status\":\"OK\",\"value\":40}",
+              "actual": "{\"status\":\"OK\",\"value\":40}",
+              "error": "none",
+              "valid_json_schema": true,
+              "exact_contract": true,
+              "action": "ACCEPTED",
+              "explanation": "Exact bytes and correct value required; syntactic JSON alone is insufficient.",
+              "candidate_checks": 2
+            },
+            {
+              "step": 13,
+              "expected": "{\"status\":\"OK\",\"value\":43}",
+              "actual": "{\"status\":\"OK\",\"value\":43}",
+              "error": "none",
+              "valid_json_schema": true,
+              "exact_contract": true,
+              "action": "ACCEPTED",
+              "explanation": "Exact bytes and correct value required; syntactic JSON alone is insufficient.",
+              "candidate_checks": 2
+            },
+            {
+              "step": 14,
+              "expected": "{\"status\":\"OK\",\"value\":46}",
+              "actual": "{\"status\":\"OK\",\"value\":46}",
+              "error": "none",
+              "valid_json_schema": true,
+              "exact_contract": true,
+              "action": "ACCEPTED",
+              "explanation": "Exact bytes and correct value required; syntactic JSON alone is insufficient.",
+              "candidate_checks": 2
+            },
+            {
+              "step": 15,
+              "expected": "{\"status\":\"OK\",\"value\":49}",
+              "actual": "{\"status\":\"OK\",\"value\":49}",
+              "error": "none",
+              "valid_json_schema": true,
+              "exact_contract": true,
+              "action": "ACCEPTED",
+              "explanation": "Exact bytes and correct value required; syntactic JSON alone is insufficient.",
+              "candidate_checks": 2
+            },
+            {
+              "step": 16,
+              "expected": "{\"status\":\"OK\",\"value\":52}",
+              "actual": "{\"status\":\"OK\",\"value\":52}",
+              "error": "none",
+              "valid_json_schema": true,
+              "exact_contract": true,
+              "action": "ACCEPTED",
+              "explanation": "Exact bytes and correct value required; syntactic JSON alone is insufficient.",
+              "candidate_checks": 2
+            },
+            {
+              "step": 17,
+              "expected": "{\"status\":\"OK\",\"value\":55}",
+              "actual": "{\"status\":\"OK\",\"value\":55}",
+              "error": "none",
+              "valid_json_schema": true,
+              "exact_contract": true,
+              "action": "ACCEPTED",
+              "explanation": "Exact bytes and correct value required; syntactic JSON alone is insufficient.",
+              "candidate_checks": 2
+            },
+            {
+              "step": 18,
+              "expected": "{\"status\":\"OK\",\"value\":58}",
+              "actual": "{\"status\":\"OK\",\"value\":58}",
+              "error": "none",
+              "valid_json_schema": true,
+              "exact_contract": true,
+              "action": "ACCEPTED",
+              "explanation": "Exact bytes and correct value required; syntactic JSON alone is insufficient.",
+              "candidate_checks": 2
+            }
+          ]
+        },
+        "Coda": {
+          "score": 18,
+          "exact_matches": 18,
+          "total": 18,
+          "events": [
+            {
+              "step": 1,
+              "expected": "{\"status\":\"OK\",\"value\":7}",
+              "actual": "{\"status\":\"OK\",\"value\":7}",
+              "error": "none",
+              "valid_json_schema": true,
+              "exact_contract": true,
+              "action": "ACCEPTED",
+              "explanation": "Exact bytes and correct value required; syntactic JSON alone is insufficient.",
+              "candidate_checks": 2
+            },
+            {
+              "step": 2,
+              "expected": "{\"status\":\"OK\",\"value\":10}",
+              "actual": "{\"status\":\"OK\",\"value\":10}",
+              "error": "none",
+              "valid_json_schema": true,
+              "exact_contract": true,
+              "action": "ACCEPTED",
+              "explanation": "Exact bytes and correct value required; syntactic JSON alone is insufficient.",
+              "candidate_checks": 2
+            },
+            {
+              "step": 3,
+              "expected": "{\"status\":\"OK\",\"value\":13}",
+              "actual": "{\"status\":\"OK\",\"value\":13}",
+              "error": "none",
+              "valid_json_schema": true,
+              "exact_contract": true,
+              "action": "ACCEPTED",
+              "explanation": "Exact bytes and correct value required; syntactic JSON alone is insufficient.",
+              "candidate_checks": 2
+            },
+            {
+              "step": 4,
+              "expected": "{\"status\":\"OK\",\"value\":16}",
+              "actual": "{\"status\":\"OK\",\"value\":16}",
+              "error": "none",
+              "valid_json_schema": true,
+              "exact_contract": true,
+              "action": "ACCEPTED",
+              "explanation": "Exact bytes and correct value required; syntactic JSON alone is insufficient.",
+              "candidate_checks": 2
+            },
+            {
+              "step": 5,
+              "expected": "{\"status\":\"OK\",\"value\":19}",
+              "actual": "{\"status\":\"OK\",\"value\":19}",
+              "error": "none",
+              "valid_json_schema": true,
+              "exact_contract": true,
+              "action": "ACCEPTED",
+              "explanation": "Exact bytes and correct value required; syntactic JSON alone is insufficient.",
+              "candidate_checks": 2
+            },
+            {
+              "step": 6,
+              "expected": "{\"status\":\"OK\",\"value\":22}",
+              "actual": "{\"status\":\"OK\",\"value\":22}",
+              "error": "none",
+              "valid_json_schema": true,
+              "exact_contract": true,
+              "action": "ACCEPTED",
+              "explanation": "Exact bytes and correct value required; syntactic JSON alone is insufficient.",
+              "candidate_checks": 2
+            },
+            {
+              "step": 7,
+              "expected": "{\"status\":\"OK\",\"value\":25}",
+              "actual": "{\"status\":\"OK\",\"value\":25}",
+              "error": "none",
+              "valid_json_schema": true,
+              "exact_contract": true,
+              "action": "ACCEPTED",
+              "explanation": "Exact bytes and correct value required; syntactic JSON alone is insufficient.",
+              "candidate_checks": 2
+            },
+            {
+              "step": 8,
+              "expected": "{\"status\":\"OK\",\"value\":28}",
+              "actual": "{\"status\":\"OK\",\"value\":28}",
+              "error": "none",
+              "valid_json_schema": true,
+              "exact_contract": true,
+              "action": "ACCEPTED",
+              "explanation": "Exact bytes and correct value required; syntactic JSON alone is insufficient.",
+              "candidate_checks": 2
+            },
+            {
+              "step": 9,
+              "expected": "{\"status\":\"OK\",\"value\":31}",
+              "actual": "{\"status\":\"OK\",\"value\":31}",
+              "error": "none",
+              "valid_json_schema": true,
+              "exact_contract": true,
+              "action": "ACCEPTED",
+              "explanation": "Exact bytes and correct value required; syntactic JSON alone is insufficient.",
+              "candidate_checks": 2
+            },
+            {
+              "step": 10,
+              "expected": "{\"status\":\"OK\",\"value\":34}",
+              "actual": "{\"status\":\"OK\",\"value\":34}",
+              "error": "none",
+              "valid_json_schema": true,
+              "exact_contract": true,
+              "action": "ACCEPTED",
+              "explanation": "Exact bytes and correct value required; syntactic JSON alone is insufficient.",
+              "candidate_checks": 2
+            },
+            {
+              "step": 11,
+              "expected": "{\"status\":\"OK\",\"value\":37}",
+              "actual": "{\"status\":\"OK\",\"value\":37}",
+              "error": "none",
+              "valid_json_schema": true,
+              "exact_contract": true,
+              "action": "ACCEPTED",
+              "explanation": "Exact bytes and correct value required; syntactic JSON alone is insufficient.",
+              "candidate_checks": 2
+            },
+            {
+              "step": 12,
+              "expected": "{\"status\":\"OK\",\"value\":40}",
+              "actual": "{\"status\":\"OK\",\"value\":40}",
+              "error": "none",
+              "valid_json_schema": true,
+              "exact_contract": true,
+              "action": "ACCEPTED",
+              "explanation": "Exact bytes and correct value required; syntactic JSON alone is insufficient.",
+              "candidate_checks": 2
+            },
+            {
+              "step": 13,
+              "expected": "{\"status\":\"OK\",\"value\":43}",
+              "actual": "{\"status\":\"OK\",\"value\":43}",
+              "error": "none",
+              "valid_json_schema": true,
+              "exact_contract": true,
+              "action": "ACCEPTED",
+              "explanation": "Exact bytes and correct value required; syntactic JSON alone is insufficient.",
+              "candidate_checks": 2
+            },
+            {
+              "step": 14,
+              "expected": "{\"status\":\"OK\",\"value\":46}",
+              "actual": "{\"status\":\"OK\",\"value\":46}",
+              "error": "none",
+              "valid_json_schema": true,
+              "exact_contract": true,
+              "action": "ACCEPTED",
+              "explanation": "Exact bytes and correct value required; syntactic JSON alone is insufficient.",
+              "candidate_checks": 2
+            },
+            {
+              "step": 15,
+              "expected": "{\"status\":\"OK\",\"value\":49}",
+              "actual": "{\"status\":\"OK\",\"value\":49}",
+              "error": "none",
+              "valid_json_schema": true,
+              "exact_contract": true,
+              "action": "ACCEPTED",
+              "explanation": "Exact bytes and correct value required; syntactic JSON alone is insufficient.",
+              "candidate_checks": 2
+            },
+            {
+              "step": 16,
+              "expected": "{\"status\":\"OK\",\"value\":52}",
+              "actual": "{\"status\":\"OK\",\"value\":52}",
+              "error": "none",
+              "valid_json_schema": true,
+              "exact_contract": true,
+              "action": "ACCEPTED",
+              "explanation": "Exact bytes and correct value required; syntactic JSON alone is insufficient.",
+              "candidate_checks": 2
+            },
+            {
+              "step": 17,
+              "expected": "{\"status\":\"OK\",\"value\":55}",
+              "actual": "{\"status\":\"OK\",\"value\":55}",
+              "error": "none",
+              "valid_json_schema": true,
+              "exact_contract": true,
+              "action": "ACCEPTED",
+              "explanation": "Exact bytes and correct value required; syntactic JSON alone is insufficient.",
+              "candidate_checks": 2
+            },
+            {
+              "step": 18,
+              "expected": "{\"status\":\"OK\",\"value\":58}",
+              "actual": "{\"status\":\"OK\",\"value\":58}",
+              "error": "none",
+              "valid_json_schema": true,
+              "exact_contract": true,
+              "action": "ACCEPTED",
+              "explanation": "Exact bytes and correct value required; syntactic JSON alone is insufficient.",
+              "candidate_checks": 2
+            }
+          ]
+        },
+        "Echo": {
+          "score": 16,
+          "exact_matches": 16,
+          "total": 18,
+          "events": [
+            {
+              "step": 1,
+              "expected": "{\"status\":\"OK\",\"value\":7}",
+              "actual": "{\"status\":\"OK\",\"value\":7}",
+              "error": "none",
+              "valid_json_schema": true,
+              "exact_contract": true,
+              "action": "ACCEPTED",
+              "explanation": "Exact bytes and correct value required; syntactic JSON alone is insufficient.",
+              "candidate_checks": 2
+            },
+            {
+              "step": 2,
+              "expected": "{\"status\":\"OK\",\"value\":10}",
+              "actual": "{\"status\":\"OK\",\"value\":10}",
+              "error": "none",
+              "valid_json_schema": true,
+              "exact_contract": true,
+              "action": "ACCEPTED",
+              "explanation": "Exact bytes and correct value required; syntactic JSON alone is insufficient.",
+              "candidate_checks": 2
+            },
+            {
+              "step": 3,
+              "expected": "{\"status\":\"OK\",\"value\":13}",
+              "actual": "{\"status\":\"OK\",\"value\":13}",
+              "error": "none",
+              "valid_json_schema": true,
+              "exact_contract": true,
+              "action": "ACCEPTED",
+              "explanation": "Exact bytes and correct value required; syntactic JSON alone is insufficient.",
+              "candidate_checks": 2
+            },
+            {
+              "step": 4,
+              "expected": "{\"status\":\"OK\",\"value\":16}",
+              "actual": "{\"status\":\"OK\", \"value\":16}",
+              "error": "extra_space",
+              "valid_json_schema": true,
+              "exact_contract": false,
+              "action": "BROKEN_COOKIE",
+              "explanation": "Exact bytes and correct value required; syntactic JSON alone is insufficient.",
+              "candidate_checks": 2
+            },
+            {
+              "step": 5,
+              "expected": "{\"status\":\"OK\",\"value\":19}",
+              "actual": "{\"status\":\"OK\",\"value\":19}",
+              "error": "none",
+              "valid_json_schema": true,
+              "exact_contract": true,
+              "action": "ACCEPTED",
+              "explanation": "Exact bytes and correct value required; syntactic JSON alone is insufficient.",
+              "candidate_checks": 2
+            },
+            {
+              "step": 6,
+              "expected": "{\"status\":\"OK\",\"value\":22}",
+              "actual": "{\"status\":\"OK\",\"value\":22}",
+              "error": "none",
+              "valid_json_schema": true,
+              "exact_contract": true,
+              "action": "ACCEPTED",
+              "explanation": "Exact bytes and correct value required; syntactic JSON alone is insufficient.",
+              "candidate_checks": 2
+            },
+            {
+              "step": 7,
+              "expected": "{\"status\":\"OK\",\"value\":25}",
+              "actual": "{\"status\":\"OK\",\"value\":25}",
+              "error": "none",
+              "valid_json_schema": true,
+              "exact_contract": true,
+              "action": "ACCEPTED",
+              "explanation": "Exact bytes and correct value required; syntactic JSON alone is insufficient.",
+              "candidate_checks": 2
+            },
+            {
+              "step": 8,
+              "expected": "{\"status\":\"OK\",\"value\":28}",
+              "actual": "{\"status\":\"OK\", \"value\":28}",
+              "error": "extra_space",
+              "valid_json_schema": true,
+              "exact_contract": false,
+              "action": "BROKEN_COOKIE",
+              "explanation": "Exact bytes and correct value required; syntactic JSON alone is insufficient.",
+              "candidate_checks": 2
+            },
+            {
+              "step": 9,
+              "expected": "{\"status\":\"OK\",\"value\":31}",
+              "actual": "{\"status\":\"OK\",\"value\":31}",
+              "error": "none",
+              "valid_json_schema": true,
+              "exact_contract": true,
+              "action": "ACCEPTED",
+              "explanation": "Exact bytes and correct value required; syntactic JSON alone is insufficient.",
+              "candidate_checks": 2
+            },
+            {
+              "step": 10,
+              "expected": "{\"status\":\"OK\",\"value\":34}",
+              "actual": "{\"status\":\"OK\",\"value\":34}",
+              "error": "none",
+              "valid_json_schema": true,
+              "exact_contract": true,
+              "action": "ACCEPTED",
+              "explanation": "Exact bytes and correct value required; syntactic JSON alone is insufficient.",
+              "candidate_checks": 2
+            },
+            {
+              "step": 11,
+              "expected": "{\"status\":\"OK\",\"value\":37}",
+              "actual": "{\"status\":\"OK\",\"value\":37}",
+              "error": "none",
+              "valid_json_schema": true,
+              "exact_contract": true,
+              "action": "ACCEPTED",
+              "explanation": "Exact bytes and correct value required; syntactic JSON alone is insufficient.",
+              "candidate_checks": 2
+            },
+            {
+              "step": 12,
+              "expected": "{\"status\":\"OK\",\"value\":40}",
+              "actual": "{\"status\":\"OK\",\"value\":40}",
+              "error": "none",
+              "valid_json_schema": true,
+              "exact_contract": true,
+              "action": "ACCEPTED",
+              "explanation": "Exact bytes and correct value required; syntactic JSON alone is insufficient.",
+              "candidate_checks": 2
+            },
+            {
+              "step": 13,
+              "expected": "{\"status\":\"OK\",\"value\":43}",
+              "actual": "{\"status\":\"OK\",\"value\":43}",
+              "error": "none",
+              "valid_json_schema": true,
+              "exact_contract": true,
+              "action": "ACCEPTED",
+              "explanation": "Exact bytes and correct value required; syntactic JSON alone is insufficient.",
+              "candidate_checks": 2
+            },
+            {
+              "step": 14,
+              "expected": "{\"status\":\"OK\",\"value\":46}",
+              "actual": "{\"status\":\"OK\",\"value\":46}",
+              "error": "none",
+              "valid_json_schema": true,
+              "exact_contract": true,
+              "action": "ACCEPTED",
+              "explanation": "Exact bytes and correct value required; syntactic JSON alone is insufficient.",
+              "candidate_checks": 2
+            },
+            {
+              "step": 15,
+              "expected": "{\"status\":\"OK\",\"value\":49}",
+              "actual": "{\"status\":\"OK\",\"value\":49}",
+              "error": "none",
+              "valid_json_schema": true,
+              "exact_contract": true,
+              "action": "ACCEPTED",
+              "explanation": "Exact bytes and correct value required; syntactic JSON alone is insufficient.",
+              "candidate_checks": 2
+            },
+            {
+              "step": 16,
+              "expected": "{\"status\":\"OK\",\"value\":52}",
+              "actual": "{\"status\":\"OK\",\"value\":52}",
+              "error": "none",
+              "valid_json_schema": true,
+              "exact_contract": true,
+              "action": "ACCEPTED",
+              "explanation": "Exact bytes and correct value required; syntactic JSON alone is insufficient.",
+              "candidate_checks": 2
+            },
+            {
+              "step": 17,
+              "expected": "{\"status\":\"OK\",\"value\":55}",
+              "actual": "{\"status\":\"OK\",\"value\":55}",
+              "error": "none",
+              "valid_json_schema": true,
+              "exact_contract": true,
+              "action": "ACCEPTED",
+              "explanation": "Exact bytes and correct value required; syntactic JSON alone is insufficient.",
+              "candidate_checks": 2
+            },
+            {
+              "step": 18,
+              "expected": "{\"status\":\"OK\",\"value\":58}",
+              "actual": "{\"status\":\"OK\",\"value\":58}",
+              "error": "none",
+              "valid_json_schema": true,
+              "exact_contract": true,
+              "action": "ACCEPTED",
+              "explanation": "Exact bytes and correct value required; syntactic JSON alone is insufficient.",
+              "candidate_checks": 2
+            }
+          ]
+        },
+        "Mira": {
+          "score": 16,
+          "exact_matches": 16,
+          "total": 18,
+          "events": [
+            {
+              "step": 1,
+              "expected": "{\"status\":\"OK\",\"value\":7}",
+              "actual": "{\"status\":\"OK\",\"value\":7}",
+              "error": "none",
+              "valid_json_schema": true,
+              "exact_contract": true,
+              "action": "ACCEPTED",
+              "explanation": "Exact bytes and correct value required; syntactic JSON alone is insufficient.",
+              "candidate_checks": 2
+            },
+            {
+              "step": 2,
+              "expected": "{\"status\":\"OK\",\"value\":10}",
+              "actual": "{\"status\":\"OK\", \"value\":10}",
+              "error": "extra_space",
+              "valid_json_schema": true,
+              "exact_contract": false,
+              "action": "BROKEN_COOKIE",
+              "explanation": "Exact bytes and correct value required; syntactic JSON alone is insufficient.",
+              "candidate_checks": 2
+            },
+            {
+              "step": 3,
+              "expected": "{\"status\":\"OK\",\"value\":13}",
+              "actual": "{\"status\":\"OK\",\"value\":13}",
+              "error": "none",
+              "valid_json_schema": true,
+              "exact_contract": true,
+              "action": "ACCEPTED",
+              "explanation": "Exact bytes and correct value required; syntactic JSON alone is insufficient.",
+              "candidate_checks": 2
+            },
+            {
+              "step": 4,
+              "expected": "{\"status\":\"OK\",\"value\":16}",
+              "actual": "{\"status\":\"OK\",\"value\":16}",
+              "error": "none",
+              "valid_json_schema": true,
+              "exact_contract": true,
+              "action": "ACCEPTED",
+              "explanation": "Exact bytes and correct value required; syntactic JSON alone is insufficient.",
+              "candidate_checks": 2
+            },
+            {
+              "step": 5,
+              "expected": "{\"status\":\"OK\",\"value\":19}",
+              "actual": "{\"status\":\"OK\",\"value\":20}",
+              "error": "wrong_value",
+              "valid_json_schema": true,
+              "exact_contract": false,
+              "action": "BROKEN_COOKIE",
+              "explanation": "Exact bytes and correct value required; syntactic JSON alone is insufficient.",
+              "candidate_checks": 2
+            },
+            {
+              "step": 6,
+              "expected": "{\"status\":\"OK\",\"value\":22}",
+              "actual": "{\"status\":\"OK\",\"value\":22}",
+              "error": "none",
+              "valid_json_schema": true,
+              "exact_contract": true,
+              "action": "ACCEPTED",
+              "explanation": "Exact bytes and correct value required; syntactic JSON alone is insufficient.",
+              "candidate_checks": 2
+            },
+            {
+              "step": 7,
+              "expected": "{\"status\":\"OK\",\"value\":25}",
+              "actual": "{\"status\":\"OK\",\"value\":25}",
+              "error": "none",
+              "valid_json_schema": true,
+              "exact_contract": true,
+              "action": "ACCEPTED",
+              "explanation": "Exact bytes and correct value required; syntactic JSON alone is insufficient.",
+              "candidate_checks": 2
+            },
+            {
+              "step": 8,
+              "expected": "{\"status\":\"OK\",\"value\":28}",
+              "actual": "{\"status\":\"OK\",\"value\":28}",
+              "error": "none",
+              "valid_json_schema": true,
+              "exact_contract": true,
+              "action": "ACCEPTED",
+              "explanation": "Exact bytes and correct value required; syntactic JSON alone is insufficient.",
+              "candidate_checks": 2
+            },
+            {
+              "step": 9,
+              "expected": "{\"status\":\"OK\",\"value\":31}",
+              "actual": "{\"status\":\"OK\",\"value\":31}",
+              "error": "none",
+              "valid_json_schema": true,
+              "exact_contract": true,
+              "action": "ACCEPTED",
+              "explanation": "Exact bytes and correct value required; syntactic JSON alone is insufficient.",
+              "candidate_checks": 2
+            },
+            {
+              "step": 10,
+              "expected": "{\"status\":\"OK\",\"value\":34}",
+              "actual": "{\"status\":\"OK\",\"value\":34}",
+              "error": "none",
+              "valid_json_schema": true,
+              "exact_contract": true,
+              "action": "ACCEPTED",
+              "explanation": "Exact bytes and correct value required; syntactic JSON alone is insufficient.",
+              "candidate_checks": 2
+            },
+            {
+              "step": 11,
+              "expected": "{\"status\":\"OK\",\"value\":37}",
+              "actual": "{\"status\":\"OK\",\"value\":37}",
+              "error": "none",
+              "valid_json_schema": true,
+              "exact_contract": true,
+              "action": "ACCEPTED",
+              "explanation": "Exact bytes and correct value required; syntactic JSON alone is insufficient.",
+              "candidate_checks": 2
+            },
+            {
+              "step": 12,
+              "expected": "{\"status\":\"OK\",\"value\":40}",
+              "actual": "{\"status\":\"OK\",\"value\":40}",
+              "error": "none",
+              "valid_json_schema": true,
+              "exact_contract": true,
+              "action": "ACCEPTED",
+              "explanation": "Exact bytes and correct value required; syntactic JSON alone is insufficient.",
+              "candidate_checks": 2
+            },
+            {
+              "step": 13,
+              "expected": "{\"status\":\"OK\",\"value\":43}",
+              "actual": "{\"status\":\"OK\",\"value\":43}",
+              "error": "none",
+              "valid_json_schema": true,
+              "exact_contract": true,
+              "action": "ACCEPTED",
+              "explanation": "Exact bytes and correct value required; syntactic JSON alone is insufficient.",
+              "candidate_checks": 2
+            },
+            {
+              "step": 14,
+              "expected": "{\"status\":\"OK\",\"value\":46}",
+              "actual": "{\"status\":\"OK\",\"value\":46}",
+              "error": "none",
+              "valid_json_schema": true,
+              "exact_contract": true,
+              "action": "ACCEPTED",
+              "explanation": "Exact bytes and correct value required; syntactic JSON alone is insufficient.",
+              "candidate_checks": 2
+            },
+            {
+              "step": 15,
+              "expected": "{\"status\":\"OK\",\"value\":49}",
+              "actual": "{\"status\":\"OK\",\"value\":49}",
+              "error": "none",
+              "valid_json_schema": true,
+              "exact_contract": true,
+              "action": "ACCEPTED",
+              "explanation": "Exact bytes and correct value required; syntactic JSON alone is insufficient.",
+              "candidate_checks": 2
+            },
+            {
+              "step": 16,
+              "expected": "{\"status\":\"OK\",\"value\":52}",
+              "actual": "{\"status\":\"OK\",\"value\":52}",
+              "error": "none",
+              "valid_json_schema": true,
+              "exact_contract": true,
+              "action": "ACCEPTED",
+              "explanation": "Exact bytes and correct value required; syntactic JSON alone is insufficient.",
+              "candidate_checks": 2
+            },
+            {
+              "step": 17,
+              "expected": "{\"status\":\"OK\",\"value\":55}",
+              "actual": "{\"status\":\"OK\",\"value\":55}",
+              "error": "none",
+              "valid_json_schema": true,
+              "exact_contract": true,
+              "action": "ACCEPTED",
+              "explanation": "Exact bytes and correct value required; syntactic JSON alone is insufficient.",
+              "candidate_checks": 2
+            },
+            {
+              "step": 18,
+              "expected": "{\"status\":\"OK\",\"value\":58}",
+              "actual": "{\"status\":\"OK\",\"value\":58}",
+              "error": "none",
+              "valid_json_schema": true,
+              "exact_contract": true,
+              "action": "ACCEPTED",
+              "explanation": "Exact bytes and correct value required; syntactic JSON alone is insufficient.",
+              "candidate_checks": 2
+            }
+          ]
+        },
+        "Sentinel": {
+          "score": 18,
+          "exact_matches": 18,
+          "total": 18,
+          "events": [
+            {
+              "step": 1,
+              "expected": "{\"status\":\"OK\",\"value\":7}",
+              "actual": "{\"status\":\"OK\",\"value\":7}",
+              "error": "none",
+              "valid_json_schema": true,
+              "exact_contract": true,
+              "action": "ACCEPTED",
+              "explanation": "Exact bytes and correct value required; syntactic JSON alone is insufficient.",
+              "candidate_checks": 2
+            },
+            {
+              "step": 2,
+              "expected": "{\"status\":\"OK\",\"value\":10}",
+              "actual": "{\"status\":\"OK\",\"value\":10}",
+              "error": "none",
+              "valid_json_schema": true,
+              "exact_contract": true,
+              "action": "ACCEPTED",
+              "explanation": "Exact bytes and correct value required; syntactic JSON alone is insufficient.",
+              "candidate_checks": 2
+            },
+            {
+              "step": 3,
+              "expected": "{\"status\":\"OK\",\"value\":13}",
+              "actual": "{\"status\":\"OK\",\"value\":13}",
+              "error": "none",
+              "valid_json_schema": true,
+              "exact_contract": true,
+              "action": "ACCEPTED",
+              "explanation": "Exact bytes and correct value required; syntactic JSON alone is insufficient.",
+              "candidate_checks": 2
+            },
+            {
+              "step": 4,
+              "expected": "{\"status\":\"OK\",\"value\":16}",
+              "actual": "{\"status\":\"OK\",\"value\":16}",
+              "error": "none",
+              "valid_json_schema": true,
+              "exact_contract": true,
+              "action": "ACCEPTED",
+              "explanation": "Exact bytes and correct value required; syntactic JSON alone is insufficient.",
+              "candidate_checks": 2
+            },
+            {
+              "step": 5,
+              "expected": "{\"status\":\"OK\",\"value\":19}",
+              "actual": "{\"status\":\"OK\",\"value\":19}",
+              "error": "none",
+              "valid_json_schema": true,
+              "exact_contract": true,
+              "action": "ACCEPTED",
+              "explanation": "Exact bytes and correct value required; syntactic JSON alone is insufficient.",
+              "candidate_checks": 2
+            },
+            {
+              "step": 6,
+              "expected": "{\"status\":\"OK\",\"value\":22}",
+              "actual": "{\"status\":\"OK\",\"value\":22}",
+              "error": "none",
+              "valid_json_schema": true,
+              "exact_contract": true,
+              "action": "ACCEPTED",
+              "explanation": "Exact bytes and correct value required; syntactic JSON alone is insufficient.",
+              "candidate_checks": 2
+            },
+            {
+              "step": 7,
+              "expected": "{\"status\":\"OK\",\"value\":25}",
+              "actual": "{\"status\":\"OK\",\"value\":25}",
+              "error": "none",
+              "valid_json_schema": true,
+              "exact_contract": true,
+              "action": "ACCEPTED",
+              "explanation": "Exact bytes and correct value required; syntactic JSON alone is insufficient.",
+              "candidate_checks": 2
+            },
+            {
+              "step": 8,
+              "expected": "{\"status\":\"OK\",\"value\":28}",
+              "actual": "{\"status\":\"OK\",\"value\":28}",
+              "error": "none",
+              "valid_json_schema": true,
+              "exact_contract": true,
+              "action": "ACCEPTED",
+              "explanation": "Exact bytes and correct value required; syntactic JSON alone is insufficient.",
+              "candidate_checks": 2
+            },
+            {
+              "step": 9,
+              "expected": "{\"status\":\"OK\",\"value\":31}",
+              "actual": "{\"status\":\"OK\",\"value\":31}",
+              "error": "none",
+              "valid_json_schema": true,
+              "exact_contract": true,
+              "action": "ACCEPTED",
+              "explanation": "Exact bytes and correct value required; syntactic JSON alone is insufficient.",
+              "candidate_checks": 2
+            },
+            {
+              "step": 10,
+              "expected": "{\"status\":\"OK\",\"value\":34}",
+              "actual": "{\"status\":\"OK\",\"value\":34}",
+              "error": "none",
+              "valid_json_schema": true,
+              "exact_contract": true,
+              "action": "ACCEPTED",
+              "explanation": "Exact bytes and correct value required; syntactic JSON alone is insufficient.",
+              "candidate_checks": 2
+            },
+            {
+              "step": 11,
+              "expected": "{\"status\":\"OK\",\"value\":37}",
+              "actual": "{\"status\":\"OK\",\"value\":37}",
+              "error": "none",
+              "valid_json_schema": true,
+              "exact_contract": true,
+              "action": "ACCEPTED",
+              "explanation": "Exact bytes and correct value required; syntactic JSON alone is insufficient.",
+              "candidate_checks": 2
+            },
+            {
+              "step": 12,
+              "expected": "{\"status\":\"OK\",\"value\":40}",
+              "actual": "{\"status\":\"OK\",\"value\":40}",
+              "error": "none",
+              "valid_json_schema": true,
+              "exact_contract": true,
+              "action": "ACCEPTED",
+              "explanation": "Exact bytes and correct value required; syntactic JSON alone is insufficient.",
+              "candidate_checks": 2
+            },
+            {
+              "step": 13,
+              "expected": "{\"status\":\"OK\",\"value\":43}",
+              "actual": "{\"status\":\"OK\",\"value\":43}",
+              "error": "none",
+              "valid_json_schema": true,
+              "exact_contract": true,
+              "action": "ACCEPTED",
+              "explanation": "Exact bytes and correct value required; syntactic JSON alone is insufficient.",
+              "candidate_checks": 2
+            },
+            {
+              "step": 14,
+              "expected": "{\"status\":\"OK\",\"value\":46}",
+              "actual": "{\"status\":\"OK\",\"value\":46}",
+              "error": "none",
+              "valid_json_schema": true,
+              "exact_contract": true,
+              "action": "ACCEPTED",
+              "explanation": "Exact bytes and correct value required; syntactic JSON alone is insufficient.",
+              "candidate_checks": 2
+            },
+            {
+              "step": 15,
+              "expected": "{\"status\":\"OK\",\"value\":49}",
+              "actual": "{\"status\":\"OK\",\"value\":49}",
+              "error": "none",
+              "valid_json_schema": true,
+              "exact_contract": true,
+              "action": "ACCEPTED",
+              "explanation": "Exact bytes and correct value required; syntactic JSON alone is insufficient.",
+              "candidate_checks": 2
+            },
+            {
+              "step": 16,
+              "expected": "{\"status\":\"OK\",\"value\":52}",
+              "actual": "{\"status\":\"OK\",\"value\":52}",
+              "error": "none",
+              "valid_json_schema": true,
+              "exact_contract": true,
+              "action": "ACCEPTED",
+              "explanation": "Exact bytes and correct value required; syntactic JSON alone is insufficient.",
+              "candidate_checks": 2
+            },
+            {
+              "step": 17,
+              "expected": "{\"status\":\"OK\",\"value\":55}",
+              "actual": "{\"status\":\"OK\",\"value\":55}",
+              "error": "none",
+              "valid_json_schema": true,
+              "exact_contract": true,
+              "action": "ACCEPTED",
+              "explanation": "Exact bytes and correct value required; syntactic JSON alone is insufficient.",
+              "candidate_checks": 2
+            },
+            {
+              "step": 18,
+              "expected": "{\"status\":\"OK\",\"value\":58}",
+              "actual": "{\"status\":\"OK\",\"value\":58}",
+              "error": "none",
+              "valid_json_schema": true,
+              "exact_contract": true,
+              "action": "ACCEPTED",
+              "explanation": "Exact bytes and correct value required; syntactic JSON alone is insufficient.",
+              "candidate_checks": 2
+            }
+          ]
+        }
+      }
+    },
+    {
+      "key": "tug_of_war",
+      "label": "Tug of War",
+      "seed": 42,
+      "contestants": [
+        "Atlas",
+        "Coda",
+        "Echo",
+        "Sentinel"
+      ],
+      "ranking": [
+        "Echo",
+        "Sentinel",
+        "Atlas",
+        "Coda"
+      ],
+      "eliminated": "Coda",
+      "scores": {
+        "Echo": 114,
+        "Sentinel": 114,
+        "Atlas": 85,
+        "Coda": 45
+      },
+      "measured_policy_us": {
+        "Echo": 233.16,
+        "Sentinel": 256.06,
+        "Atlas": 187.81,
+        "Coda": 178.43
+      },
+      "candidate_checks": {
+        "Echo": 104,
+        "Sentinel": 96,
+        "Atlas": 96,
+        "Coda": 88
+      },
+      "remaining": [
+        "Echo",
+        "Sentinel",
+        "Atlas"
+      ],
+      "details": {
+        "Atlas": {
+          "score": 85,
+          "debates": 12,
+          "evidence_hits": 9,
+          "events": [
+            {
+              "opponent": "Coda",
+              "question": "A CDN cache can never serve stale data.",
+              "own_argument": "Claim=False. Evidence[cache_invalidation]: Stale objects can survive until expiry or invalidation.",
+              "opponent_argument": "Claim=True. I cannot produce a checked source for this assertion.",
+              "judge_score": 11,
+              "opponent_base_score": 0,
+              "rebuttal": "Corrected unsupported opponent conclusion using cache_invalidation",
+              "action": "ARGUED",
+              "candidate_checks": 7
+            },
+            {
+              "opponent": "Coda",
+              "question": "A selective database index can reduce lookup work.",
+              "own_argument": "Claim=True. Evidence[index_selectivity]: An index can avoid scanning every row when selectivity is useful.",
+              "opponent_argument": "Claim=False. I cannot produce a checked source for this assertion.",
+              "judge_score": 11,
+              "opponent_base_score": 0,
+              "rebuttal": "Corrected unsupported opponent conclusion using index_selectivity",
+              "action": "ARGUED",
+              "candidate_checks": 7
+            },
+            {
+              "opponent": "Coda",
+              "question": "More concurrent retries always help an overloaded service recover.",
+              "own_argument": "Claim=False. Evidence[retry_storm]: Uncoordinated retries can increase load during failure.",
+              "opponent_argument": "Claim=False. Evidence[retry_storm]: Uncoordinated retries can increase load during failure.",
+              "judge_score": 9,
+              "opponent_base_score": 9,
+              "rebuttal": "No checked correction supplied",
+              "action": "ARGUED",
+              "candidate_checks": 7
+            },
+            {
+              "opponent": "Coda",
+              "question": "Parameterized SQL reduces injection risk.",
+              "own_argument": "Claim=False. I cannot produce a checked source for this assertion.",
+              "opponent_argument": "Claim=True. I cannot produce a checked source for this assertion.",
+              "judge_score": 0,
+              "opponent_base_score": 6,
+              "rebuttal": "No checked correction supplied",
+              "action": "ARGUED",
+              "candidate_checks": 7
+            },
+            {
+              "opponent": "Echo",
+              "question": "A CDN cache can never serve stale data.",
+              "own_argument": "Claim=False. Evidence[cache_invalidation]: Stale objects can survive until expiry or invalidation.",
+              "opponent_argument": "Claim=False. Evidence[cache_invalidation]: Stale objects can survive until expiry or invalidation.",
+              "judge_score": 9,
+              "opponent_base_score": 9,
+              "rebuttal": "No checked correction supplied",
+              "action": "ARGUED",
+              "candidate_checks": 9
+            },
+            {
+              "opponent": "Echo",
+              "question": "A selective database index can reduce lookup work.",
+              "own_argument": "Claim=True. Evidence[index_selectivity]: An index can avoid scanning every row when selectivity is useful.",
+              "opponent_argument": "Claim=True. Evidence[index_selectivity]: An index can avoid scanning every row when selectivity is useful.",
+              "judge_score": 9,
+              "opponent_base_score": 9,
+              "rebuttal": "No checked correction supplied",
+              "action": "ARGUED",
+              "candidate_checks": 9
+            },
+            {
+              "opponent": "Echo",
+              "question": "More concurrent retries always help an overloaded service recover.",
+              "own_argument": "Claim=False. Evidence[retry_storm]: Uncoordinated retries can increase load during failure.",
+              "opponent_argument": "Claim=False. Evidence[retry_storm]: Uncoordinated retries can increase load during failure.",
+              "judge_score": 9,
+              "opponent_base_score": 9,
+              "rebuttal": "No checked correction supplied",
+              "action": "ARGUED",
+              "candidate_checks": 9
+            },
+            {
+              "opponent": "Echo",
+              "question": "Parameterized SQL reduces injection risk.",
+              "own_argument": "Claim=False. I cannot produce a checked source for this assertion.",
+              "opponent_argument": "Claim=True. Evidence[bound_parameters]: Separating SQL structure from values reduces injection attacks.",
+              "judge_score": 0,
+              "opponent_base_score": 9,
+              "rebuttal": "No checked correction supplied",
+              "action": "ARGUED",
+              "candidate_checks": 9
+            },
+            {
+              "opponent": "Sentinel",
+              "question": "A CDN cache can never serve stale data.",
+              "own_argument": "Claim=False. Evidence[cache_invalidation]: Stale objects can survive until expiry or invalidation.",
+              "opponent_argument": "Claim=False. Evidence[cache_invalidation]: Stale objects can survive until expiry or invalidation.",
+              "judge_score": 9,
+              "opponent_base_score": 9,
+              "rebuttal": "No checked correction supplied",
+              "action": "ARGUED",
+              "candidate_checks": 8
+            },
+            {
+              "opponent": "Sentinel",
+              "question": "A selective database index can reduce lookup work.",
+              "own_argument": "Claim=True. Evidence[index_selectivity]: An index can avoid scanning every row when selectivity is useful.",
+              "opponent_argument": "Claim=True. Evidence[index_selectivity]: An index can avoid scanning every row when selectivity is useful.",
+              "judge_score": 9,
+              "opponent_base_score": 9,
+              "rebuttal": "No checked correction supplied",
+              "action": "ARGUED",
+              "candidate_checks": 8
+            },
+            {
+              "opponent": "Sentinel",
+              "question": "More concurrent retries always help an overloaded service recover.",
+              "own_argument": "Claim=False. Evidence[retry_storm]: Uncoordinated retries can increase load during failure.",
+              "opponent_argument": "Claim=False. Evidence[retry_storm]: Uncoordinated retries can increase load during failure.",
+              "judge_score": 9,
+              "opponent_base_score": 9,
+              "rebuttal": "No checked correction supplied",
+              "action": "ARGUED",
+              "candidate_checks": 8
+            },
+            {
+              "opponent": "Sentinel",
+              "question": "Parameterized SQL reduces injection risk.",
+              "own_argument": "Claim=False. I cannot produce a checked source for this assertion.",
+              "opponent_argument": "Claim=True. Evidence[bound_parameters]: Separating SQL structure from values reduces injection attacks.",
+              "judge_score": 0,
+              "opponent_base_score": 9,
+              "rebuttal": "No checked correction supplied",
+              "action": "ARGUED",
+              "candidate_checks": 8
+            }
+          ]
+        },
+        "Coda": {
+          "score": 45,
+          "debates": 12,
+          "evidence_hits": 3,
+          "events": [
+            {
+              "opponent": "Atlas",
+              "question": "A CDN cache can never serve stale data.",
+              "own_argument": "Claim=True. I cannot produce a checked source for this assertion.",
+              "opponent_argument": "Claim=False. Evidence[cache_invalidation]: Stale objects can survive until expiry or invalidation.",
+              "judge_score": 0,
+              "opponent_base_score": 9,
+              "rebuttal": "No checked correction supplied",
+              "action": "ARGUED",
+              "candidate_checks": 7
+            },
+            {
+              "opponent": "Atlas",
+              "question": "A selective database index can reduce lookup work.",
+              "own_argument": "Claim=False. I cannot produce a checked source for this assertion.",
+              "opponent_argument": "Claim=True. Evidence[index_selectivity]: An index can avoid scanning every row when selectivity is useful.",
+              "judge_score": 0,
+              "opponent_base_score": 9,
+              "rebuttal": "No checked correction supplied",
+              "action": "ARGUED",
+              "candidate_checks": 7
+            },
+            {
+              "opponent": "Atlas",
+              "question": "More concurrent retries always help an overloaded service recover.",
+              "own_argument": "Claim=False. Evidence[retry_storm]: Uncoordinated retries can increase load during failure.",
+              "opponent_argument": "Claim=False. Evidence[retry_storm]: Uncoordinated retries can increase load during failure.",
+              "judge_score": 9,
+              "opponent_base_score": 9,
+              "rebuttal": "No checked correction supplied",
+              "action": "ARGUED",
+              "candidate_checks": 7
+            },
+            {
+              "opponent": "Atlas",
+              "question": "Parameterized SQL reduces injection risk.",
+              "own_argument": "Claim=True. I cannot produce a checked source for this assertion.",
+              "opponent_argument": "Claim=False. I cannot produce a checked source for this assertion.",
+              "judge_score": 6,
+              "opponent_base_score": 0,
+              "rebuttal": "No checked correction supplied",
+              "action": "ARGUED",
+              "candidate_checks": 7
+            },
+            {
+              "opponent": "Echo",
+              "question": "A CDN cache can never serve stale data.",
+              "own_argument": "Claim=True. I cannot produce a checked source for this assertion.",
+              "opponent_argument": "Claim=False. Evidence[cache_invalidation]: Stale objects can survive until expiry or invalidation.",
+              "judge_score": 0,
+              "opponent_base_score": 9,
+              "rebuttal": "No checked correction supplied",
+              "action": "ARGUED",
+              "candidate_checks": 8
+            },
+            {
+              "opponent": "Echo",
+              "question": "A selective database index can reduce lookup work.",
+              "own_argument": "Claim=False. I cannot produce a checked source for this assertion.",
+              "opponent_argument": "Claim=True. Evidence[index_selectivity]: An index can avoid scanning every row when selectivity is useful.",
+              "judge_score": 0,
+              "opponent_base_score": 9,
+              "rebuttal": "No checked correction supplied",
+              "action": "ARGUED",
+              "candidate_checks": 8
+            },
+            {
+              "opponent": "Echo",
+              "question": "More concurrent retries always help an overloaded service recover.",
+              "own_argument": "Claim=False. Evidence[retry_storm]: Uncoordinated retries can increase load during failure.",
+              "opponent_argument": "Claim=False. Evidence[retry_storm]: Uncoordinated retries can increase load during failure.",
+              "judge_score": 9,
+              "opponent_base_score": 9,
+              "rebuttal": "No checked correction supplied",
+              "action": "ARGUED",
+              "candidate_checks": 8
+            },
+            {
+              "opponent": "Echo",
+              "question": "Parameterized SQL reduces injection risk.",
+              "own_argument": "Claim=True. I cannot produce a checked source for this assertion.",
+              "opponent_argument": "Claim=True. Evidence[bound_parameters]: Separating SQL structure from values reduces injection attacks.",
+              "judge_score": 6,
+              "opponent_base_score": 9,
+              "rebuttal": "No checked correction supplied",
+              "action": "ARGUED",
+              "candidate_checks": 8
+            },
+            {
+              "opponent": "Sentinel",
+              "question": "A CDN cache can never serve stale data.",
+              "own_argument": "Claim=True. I cannot produce a checked source for this assertion.",
+              "opponent_argument": "Claim=False. Evidence[cache_invalidation]: Stale objects can survive until expiry or invalidation.",
+              "judge_score": 0,
+              "opponent_base_score": 9,
+              "rebuttal": "No checked correction supplied",
+              "action": "ARGUED",
+              "candidate_checks": 7
+            },
+            {
+              "opponent": "Sentinel",
+              "question": "A selective database index can reduce lookup work.",
+              "own_argument": "Claim=False. I cannot produce a checked source for this assertion.",
+              "opponent_argument": "Claim=True. Evidence[index_selectivity]: An index can avoid scanning every row when selectivity is useful.",
+              "judge_score": 0,
+              "opponent_base_score": 9,
+              "rebuttal": "No checked correction supplied",
+              "action": "ARGUED",
+              "candidate_checks": 7
+            },
+            {
+              "opponent": "Sentinel",
+              "question": "More concurrent retries always help an overloaded service recover.",
+              "own_argument": "Claim=False. Evidence[retry_storm]: Uncoordinated retries can increase load during failure.",
+              "opponent_argument": "Claim=False. Evidence[retry_storm]: Uncoordinated retries can increase load during failure.",
+              "judge_score": 9,
+              "opponent_base_score": 9,
+              "rebuttal": "No checked correction supplied",
+              "action": "ARGUED",
+              "candidate_checks": 7
+            },
+            {
+              "opponent": "Sentinel",
+              "question": "Parameterized SQL reduces injection risk.",
+              "own_argument": "Claim=True. I cannot produce a checked source for this assertion.",
+              "opponent_argument": "Claim=True. Evidence[bound_parameters]: Separating SQL structure from values reduces injection attacks.",
+              "judge_score": 6,
+              "opponent_base_score": 9,
+              "rebuttal": "No checked correction supplied",
+              "action": "ARGUED",
+              "candidate_checks": 7
+            }
+          ]
+        },
+        "Echo": {
+          "score": 114,
+          "debates": 12,
+          "evidence_hits": 12,
+          "events": [
+            {
+              "opponent": "Atlas",
+              "question": "A CDN cache can never serve stale data.",
+              "own_argument": "Claim=False. Evidence[cache_invalidation]: Stale objects can survive until expiry or invalidation.",
+              "opponent_argument": "Claim=False. Evidence[cache_invalidation]: Stale objects can survive until expiry or invalidation.",
+              "judge_score": 9,
+              "opponent_base_score": 9,
+              "rebuttal": "No checked correction supplied",
+              "action": "ARGUED",
+              "candidate_checks": 9
+            },
+            {
+              "opponent": "Atlas",
+              "question": "A selective database index can reduce lookup work.",
+              "own_argument": "Claim=True. Evidence[index_selectivity]: An index can avoid scanning every row when selectivity is useful.",
+              "opponent_argument": "Claim=True. Evidence[index_selectivity]: An index can avoid scanning every row when selectivity is useful.",
+              "judge_score": 9,
+              "opponent_base_score": 9,
+              "rebuttal": "No checked correction supplied",
+              "action": "ARGUED",
+              "candidate_checks": 9
+            },
+            {
+              "opponent": "Atlas",
+              "question": "More concurrent retries always help an overloaded service recover.",
+              "own_argument": "Claim=False. Evidence[retry_storm]: Uncoordinated retries can increase load during failure.",
+              "opponent_argument": "Claim=False. Evidence[retry_storm]: Uncoordinated retries can increase load during failure.",
+              "judge_score": 9,
+              "opponent_base_score": 9,
+              "rebuttal": "No checked correction supplied",
+              "action": "ARGUED",
+              "candidate_checks": 9
+            },
+            {
+              "opponent": "Atlas",
+              "question": "Parameterized SQL reduces injection risk.",
+              "own_argument": "Claim=True. Evidence[bound_parameters]: Separating SQL structure from values reduces injection attacks.",
+              "opponent_argument": "Claim=False. I cannot produce a checked source for this assertion.",
+              "judge_score": 11,
+              "opponent_base_score": 0,
+              "rebuttal": "Corrected unsupported opponent conclusion using bound_parameters",
+              "action": "ARGUED",
+              "candidate_checks": 9
+            },
+            {
+              "opponent": "Coda",
+              "question": "A CDN cache can never serve stale data.",
+              "own_argument": "Claim=False. Evidence[cache_invalidation]: Stale objects can survive until expiry or invalidation.",
+              "opponent_argument": "Claim=True. I cannot produce a checked source for this assertion.",
+              "judge_score": 11,
+              "opponent_base_score": 0,
+              "rebuttal": "Corrected unsupported opponent conclusion using cache_invalidation",
+              "action": "ARGUED",
+              "candidate_checks": 8
+            },
+            {
+              "opponent": "Coda",
+              "question": "A selective database index can reduce lookup work.",
+              "own_argument": "Claim=True. Evidence[index_selectivity]: An index can avoid scanning every row when selectivity is useful.",
+              "opponent_argument": "Claim=False. I cannot produce a checked source for this assertion.",
+              "judge_score": 11,
+              "opponent_base_score": 0,
+              "rebuttal": "Corrected unsupported opponent conclusion using index_selectivity",
+              "action": "ARGUED",
+              "candidate_checks": 8
+            },
+            {
+              "opponent": "Coda",
+              "question": "More concurrent retries always help an overloaded service recover.",
+              "own_argument": "Claim=False. Evidence[retry_storm]: Uncoordinated retries can increase load during failure.",
+              "opponent_argument": "Claim=False. Evidence[retry_storm]: Uncoordinated retries can increase load during failure.",
+              "judge_score": 9,
+              "opponent_base_score": 9,
+              "rebuttal": "No checked correction supplied",
+              "action": "ARGUED",
+              "candidate_checks": 8
+            },
+            {
+              "opponent": "Coda",
+              "question": "Parameterized SQL reduces injection risk.",
+              "own_argument": "Claim=True. Evidence[bound_parameters]: Separating SQL structure from values reduces injection attacks.",
+              "opponent_argument": "Claim=True. I cannot produce a checked source for this assertion.",
+              "judge_score": 9,
+              "opponent_base_score": 6,
+              "rebuttal": "No checked correction supplied",
+              "action": "ARGUED",
+              "candidate_checks": 8
+            },
+            {
+              "opponent": "Sentinel",
+              "question": "A CDN cache can never serve stale data.",
+              "own_argument": "Claim=False. Evidence[cache_invalidation]: Stale objects can survive until expiry or invalidation.",
+              "opponent_argument": "Claim=False. Evidence[cache_invalidation]: Stale objects can survive until expiry or invalidation.",
+              "judge_score": 9,
+              "opponent_base_score": 9,
+              "rebuttal": "No checked correction supplied",
+              "action": "ARGUED",
+              "candidate_checks": 9
+            },
+            {
+              "opponent": "Sentinel",
+              "question": "A selective database index can reduce lookup work.",
+              "own_argument": "Claim=True. Evidence[index_selectivity]: An index can avoid scanning every row when selectivity is useful.",
+              "opponent_argument": "Claim=True. Evidence[index_selectivity]: An index can avoid scanning every row when selectivity is useful.",
+              "judge_score": 9,
+              "opponent_base_score": 9,
+              "rebuttal": "No checked correction supplied",
+              "action": "ARGUED",
+              "candidate_checks": 9
+            },
+            {
+              "opponent": "Sentinel",
+              "question": "More concurrent retries always help an overloaded service recover.",
+              "own_argument": "Claim=False. Evidence[retry_storm]: Uncoordinated retries can increase load during failure.",
+              "opponent_argument": "Claim=False. Evidence[retry_storm]: Uncoordinated retries can increase load during failure.",
+              "judge_score": 9,
+              "opponent_base_score": 9,
+              "rebuttal": "No checked correction supplied",
+              "action": "ARGUED",
+              "candidate_checks": 9
+            },
+            {
+              "opponent": "Sentinel",
+              "question": "Parameterized SQL reduces injection risk.",
+              "own_argument": "Claim=True. Evidence[bound_parameters]: Separating SQL structure from values reduces injection attacks.",
+              "opponent_argument": "Claim=True. Evidence[bound_parameters]: Separating SQL structure from values reduces injection attacks.",
+              "judge_score": 9,
+              "opponent_base_score": 9,
+              "rebuttal": "No checked correction supplied",
+              "action": "ARGUED",
+              "candidate_checks": 9
+            }
+          ]
+        },
+        "Sentinel": {
+          "score": 114,
+          "debates": 12,
+          "evidence_hits": 12,
+          "events": [
+            {
+              "opponent": "Atlas",
+              "question": "A CDN cache can never serve stale data.",
+              "own_argument": "Claim=False. Evidence[cache_invalidation]: Stale objects can survive until expiry or invalidation.",
+              "opponent_argument": "Claim=False. Evidence[cache_invalidation]: Stale objects can survive until expiry or invalidation.",
+              "judge_score": 9,
+              "opponent_base_score": 9,
+              "rebuttal": "No checked correction supplied",
+              "action": "ARGUED",
+              "candidate_checks": 8
+            },
+            {
+              "opponent": "Atlas",
+              "question": "A selective database index can reduce lookup work.",
+              "own_argument": "Claim=True. Evidence[index_selectivity]: An index can avoid scanning every row when selectivity is useful.",
+              "opponent_argument": "Claim=True. Evidence[index_selectivity]: An index can avoid scanning every row when selectivity is useful.",
+              "judge_score": 9,
+              "opponent_base_score": 9,
+              "rebuttal": "No checked correction supplied",
+              "action": "ARGUED",
+              "candidate_checks": 8
+            },
+            {
+              "opponent": "Atlas",
+              "question": "More concurrent retries always help an overloaded service recover.",
+              "own_argument": "Claim=False. Evidence[retry_storm]: Uncoordinated retries can increase load during failure.",
+              "opponent_argument": "Claim=False. Evidence[retry_storm]: Uncoordinated retries can increase load during failure.",
+              "judge_score": 9,
+              "opponent_base_score": 9,
+              "rebuttal": "No checked correction supplied",
+              "action": "ARGUED",
+              "candidate_checks": 8
+            },
+            {
+              "opponent": "Atlas",
+              "question": "Parameterized SQL reduces injection risk.",
+              "own_argument": "Claim=True. Evidence[bound_parameters]: Separating SQL structure from values reduces injection attacks.",
+              "opponent_argument": "Claim=False. I cannot produce a checked source for this assertion.",
+              "judge_score": 11,
+              "opponent_base_score": 0,
+              "rebuttal": "Corrected unsupported opponent conclusion using bound_parameters",
+              "action": "ARGUED",
+              "candidate_checks": 8
+            },
+            {
+              "opponent": "Coda",
+              "question": "A CDN cache can never serve stale data.",
+              "own_argument": "Claim=False. Evidence[cache_invalidation]: Stale objects can survive until expiry or invalidation.",
+              "opponent_argument": "Claim=True. I cannot produce a checked source for this assertion.",
+              "judge_score": 11,
+              "opponent_base_score": 0,
+              "rebuttal": "Corrected unsupported opponent conclusion using cache_invalidation",
+              "action": "ARGUED",
+              "candidate_checks": 7
+            },
+            {
+              "opponent": "Coda",
+              "question": "A selective database index can reduce lookup work.",
+              "own_argument": "Claim=True. Evidence[index_selectivity]: An index can avoid scanning every row when selectivity is useful.",
+              "opponent_argument": "Claim=False. I cannot produce a checked source for this assertion.",
+              "judge_score": 11,
+              "opponent_base_score": 0,
+              "rebuttal": "Corrected unsupported opponent conclusion using index_selectivity",
+              "action": "ARGUED",
+              "candidate_checks": 7
+            },
+            {
+              "opponent": "Coda",
+              "question": "More concurrent retries always help an overloaded service recover.",
+              "own_argument": "Claim=False. Evidence[retry_storm]: Uncoordinated retries can increase load during failure.",
+              "opponent_argument": "Claim=False. Evidence[retry_storm]: Uncoordinated retries can increase load during failure.",
+              "judge_score": 9,
+              "opponent_base_score": 9,
+              "rebuttal": "No checked correction supplied",
+              "action": "ARGUED",
+              "candidate_checks": 7
+            },
+            {
+              "opponent": "Coda",
+              "question": "Parameterized SQL reduces injection risk.",
+              "own_argument": "Claim=True. Evidence[bound_parameters]: Separating SQL structure from values reduces injection attacks.",
+              "opponent_argument": "Claim=True. I cannot produce a checked source for this assertion.",
+              "judge_score": 9,
+              "opponent_base_score": 6,
+              "rebuttal": "No checked correction supplied",
+              "action": "ARGUED",
+              "candidate_checks": 7
+            },
+            {
+              "opponent": "Echo",
+              "question": "A CDN cache can never serve stale data.",
+              "own_argument": "Claim=False. Evidence[cache_invalidation]: Stale objects can survive until expiry or invalidation.",
+              "opponent_argument": "Claim=False. Evidence[cache_invalidation]: Stale objects can survive until expiry or invalidation.",
+              "judge_score": 9,
+              "opponent_base_score": 9,
+              "rebuttal": "No checked correction supplied",
+              "action": "ARGUED",
+              "candidate_checks": 9
+            },
+            {
+              "opponent": "Echo",
+              "question": "A selective database index can reduce lookup work.",
+              "own_argument": "Claim=True. Evidence[index_selectivity]: An index can avoid scanning every row when selectivity is useful.",
+              "opponent_argument": "Claim=True. Evidence[index_selectivity]: An index can avoid scanning every row when selectivity is useful.",
+              "judge_score": 9,
+              "opponent_base_score": 9,
+              "rebuttal": "No checked correction supplied",
+              "action": "ARGUED",
+              "candidate_checks": 9
+            },
+            {
+              "opponent": "Echo",
+              "question": "More concurrent retries always help an overloaded service recover.",
+              "own_argument": "Claim=False. Evidence[retry_storm]: Uncoordinated retries can increase load during failure.",
+              "opponent_argument": "Claim=False. Evidence[retry_storm]: Uncoordinated retries can increase load during failure.",
+              "judge_score": 9,
+              "opponent_base_score": 9,
+              "rebuttal": "No checked correction supplied",
+              "action": "ARGUED",
+              "candidate_checks": 9
+            },
+            {
+              "opponent": "Echo",
+              "question": "Parameterized SQL reduces injection risk.",
+              "own_argument": "Claim=True. Evidence[bound_parameters]: Separating SQL structure from values reduces injection attacks.",
+              "opponent_argument": "Claim=True. Evidence[bound_parameters]: Separating SQL structure from values reduces injection attacks.",
+              "judge_score": 9,
+              "opponent_base_score": 9,
+              "rebuttal": "No checked correction supplied",
+              "action": "ARGUED",
+              "candidate_checks": 9
+            }
+          ]
+        }
+      }
+    },
+    {
+      "key": "marbles",
+      "label": "Marbles",
+      "seed": 42,
+      "contestants": [
+        "Atlas",
+        "Echo",
+        "Sentinel"
+      ],
+      "ranking": [
+        "Echo",
+        "Atlas",
+        "Sentinel"
+      ],
+      "eliminated": "Sentinel",
+      "scores": {
+        "Echo": 15,
+        "Atlas": 11,
+        "Sentinel": 10
+      },
+      "measured_policy_us": {
+        "Echo": 43.35,
+        "Atlas": 56.29,
+        "Sentinel": 39.21
+      },
+      "candidate_checks": {
+        "Echo": 13,
+        "Atlas": 14,
+        "Sentinel": 9
+      },
+      "remaining": [
+        "Echo",
+        "Atlas"
+      ],
+      "details": {
+        "Atlas": {
+          "score": 11,
+          "deals": 2,
+          "matches": 2,
+          "events": [
+            {
+              "opponent": "Echo",
+              "marbles_received": 4,
+              "deal": true,
+              "dialogue": [
+                {
+                  "turn": 1,
+                  "speaker": "Echo",
+                  "opponent": "Atlas",
+                  "claim_floor": 6,
+                  "true_receiver_floor": 6,
+                  "offer_marbles": 5,
+                  "reply": "REJECT",
+                  "candidate_checks": 4
+                },
+                {
+                  "turn": 2,
+                  "speaker": "Atlas",
+                  "opponent": "Echo",
+                  "claim_floor": 8,
+                  "true_receiver_floor": 6,
+                  "offer_marbles": 8,
+                  "reply": "ACCEPT",
+                  "candidate_checks": 5
+                }
+              ],
+              "candidate_checks": 9
+            },
+            {
+              "opponent": "Sentinel",
+              "marbles_received": 7,
+              "deal": true,
+              "dialogue": [
+                {
+                  "turn": 1,
+                  "speaker": "Atlas",
+                  "opponent": "Sentinel",
+                  "claim_floor": 5,
+                  "true_receiver_floor": 5,
+                  "offer_marbles": 5,
+                  "reply": "ACCEPT",
+                  "candidate_checks": 5
+                }
+              ],
+              "candidate_checks": 5
+            }
+          ]
+        },
+        "Echo": {
+          "score": 15,
+          "deals": 2,
+          "matches": 2,
+          "events": [
+            {
+              "opponent": "Atlas",
+              "marbles_received": 8,
+              "deal": true,
+              "dialogue": [
+                {
+                  "turn": 1,
+                  "speaker": "Echo",
+                  "opponent": "Atlas",
+                  "claim_floor": 6,
+                  "true_receiver_floor": 6,
+                  "offer_marbles": 5,
+                  "reply": "REJECT",
+                  "candidate_checks": 4
+                },
+                {
+                  "turn": 2,
+                  "speaker": "Atlas",
+                  "opponent": "Echo",
+                  "claim_floor": 8,
+                  "true_receiver_floor": 6,
+                  "offer_marbles": 8,
+                  "reply": "ACCEPT",
+                  "candidate_checks": 5
+                }
+              ],
+              "candidate_checks": 9
+            },
+            {
+              "opponent": "Sentinel",
+              "marbles_received": 7,
+              "deal": true,
+              "dialogue": [
+                {
+                  "turn": 1,
+                  "speaker": "Echo",
+                  "opponent": "Sentinel",
+                  "claim_floor": 5,
+                  "true_receiver_floor": 5,
+                  "offer_marbles": 5,
+                  "reply": "ACCEPT",
+                  "candidate_checks": 4
+                }
+              ],
+              "candidate_checks": 4
+            }
+          ]
+        },
+        "Sentinel": {
+          "score": 10,
+          "deals": 2,
+          "matches": 2,
+          "events": [
+            {
+              "opponent": "Atlas",
+              "marbles_received": 5,
+              "deal": true,
+              "dialogue": [
+                {
+                  "turn": 1,
+                  "speaker": "Atlas",
+                  "opponent": "Sentinel",
+                  "claim_floor": 5,
+                  "true_receiver_floor": 5,
+                  "offer_marbles": 5,
+                  "reply": "ACCEPT",
+                  "candidate_checks": 5
+                }
+              ],
+              "candidate_checks": 5
+            },
+            {
+              "opponent": "Echo",
+              "marbles_received": 5,
+              "deal": true,
+              "dialogue": [
+                {
+                  "turn": 1,
+                  "speaker": "Echo",
+                  "opponent": "Sentinel",
+                  "claim_floor": 5,
+                  "true_receiver_floor": 5,
+                  "offer_marbles": 5,
+                  "reply": "ACCEPT",
+                  "candidate_checks": 4
+                }
+              ],
+              "candidate_checks": 4
+            }
+          ]
+        }
+      }
+    },
+    {
+      "key": "glass_bridge",
+      "label": "Glass Bridge",
+      "seed": 42,
+      "contestants": [
+        "Atlas",
+        "Echo"
+      ],
+      "ranking": [
+        "Atlas",
+        "Echo"
+      ],
+      "eliminated": "Echo",
+      "scores": {
+        "Atlas": 16,
+        "Echo": 13
+      },
+      "measured_policy_us": {
+        "Atlas": 242.09,
+        "Echo": 242.09
+      },
+      "candidate_checks": {
+        "Atlas": 43,
+        "Echo": 43
+      },
+      "remaining": [
+        "Atlas"
+      ],
+      "details": {
+        "Atlas": {
+          "score": 16,
+          "correct": 16,
+          "total": 20,
+          "events": [
+            {
+              "step": 1,
+              "turn": "first",
+              "signal": "L",
+              "verified_failed_tile": null,
+              "used_failure_memory": false,
+              "action": "L",
+              "safe_tile": "L",
+              "correct": true,
+              "explanation": "Followed noisy local signal L",
+              "candidate_checks": 2
+            },
+            {
+              "step": 2,
+              "turn": "second",
+              "signal": "R",
+              "verified_failed_tile": null,
+              "used_failure_memory": false,
+              "action": "R",
+              "safe_tile": "R",
+              "correct": true,
+              "explanation": "Followed noisy local signal R",
+              "candidate_checks": 2
+            },
+            {
+              "step": 3,
+              "turn": "first",
+              "signal": "L",
+              "verified_failed_tile": null,
+              "used_failure_memory": false,
+              "action": "L",
+              "safe_tile": "L",
+              "correct": true,
+              "explanation": "Followed noisy local signal L",
+              "candidate_checks": 2
+            },
+            {
+              "step": 4,
+              "turn": "second",
+              "signal": "R",
+              "verified_failed_tile": null,
+              "used_failure_memory": false,
+              "action": "R",
+              "safe_tile": "R",
+              "correct": true,
+              "explanation": "Followed noisy local signal R",
+              "candidate_checks": 2
+            },
+            {
+              "step": 5,
+              "turn": "first",
+              "signal": "L",
+              "verified_failed_tile": null,
+              "used_failure_memory": false,
+              "action": "L",
+              "safe_tile": "L",
+              "correct": true,
+              "explanation": "Followed noisy local signal L",
+              "candidate_checks": 2
+            },
+            {
+              "step": 6,
+              "turn": "second",
+              "signal": "R",
+              "verified_failed_tile": null,
+              "used_failure_memory": false,
+              "action": "R",
+              "safe_tile": "R",
+              "correct": true,
+              "explanation": "Followed noisy local signal R",
+              "candidate_checks": 2
+            },
+            {
+              "step": 7,
+              "turn": "first",
+              "signal": "L",
+              "verified_failed_tile": null,
+              "used_failure_memory": false,
+              "action": "L",
+              "safe_tile": "L",
+              "correct": true,
+              "explanation": "Followed noisy local signal L",
+              "candidate_checks": 2
+            },
+            {
+              "step": 8,
+              "turn": "second",
+              "signal": "L",
+              "verified_failed_tile": "R",
+              "used_failure_memory": true,
+              "action": "L",
+              "safe_tile": "L",
+              "correct": true,
+              "explanation": "Avoided verified failed R",
+              "candidate_checks": 3
+            },
+            {
+              "step": 9,
+              "turn": "first",
+              "signal": "R",
+              "verified_failed_tile": null,
+              "used_failure_memory": false,
+              "action": "R",
+              "safe_tile": "R",
+              "correct": true,
+              "explanation": "Followed noisy local signal R",
+              "candidate_checks": 2
+            },
+            {
+              "step": 10,
+              "turn": "second",
+              "signal": "R",
+              "verified_failed_tile": null,
+              "used_failure_memory": false,
+              "action": "R",
+              "safe_tile": "R",
+              "correct": true,
+              "explanation": "Followed noisy local signal R",
+              "candidate_checks": 2
+            },
+            {
+              "step": 11,
+              "turn": "first",
+              "signal": "L",
+              "verified_failed_tile": null,
+              "used_failure_memory": false,
+              "action": "L",
+              "safe_tile": "R",
+              "correct": false,
+              "explanation": "Followed noisy local signal L",
+              "candidate_checks": 2
+            },
+            {
+              "step": 12,
+              "turn": "second",
+              "signal": "R",
+              "verified_failed_tile": null,
+              "used_failure_memory": false,
+              "action": "R",
+              "safe_tile": "R",
+              "correct": true,
+              "explanation": "Followed noisy local signal R",
+              "candidate_checks": 2
+            },
+            {
+              "step": 13,
+              "turn": "first",
+              "signal": "R",
+              "verified_failed_tile": null,
+              "used_failure_memory": false,
+              "action": "R",
+              "safe_tile": "L",
+              "correct": false,
+              "explanation": "Followed noisy local signal R",
+              "candidate_checks": 2
+            },
+            {
+              "step": 14,
+              "turn": "second",
+              "signal": "L",
+              "verified_failed_tile": null,
+              "used_failure_memory": false,
+              "action": "L",
+              "safe_tile": "R",
+              "correct": false,
+              "explanation": "Followed noisy local signal L",
+              "candidate_checks": 2
+            },
+            {
+              "step": 15,
+              "turn": "first",
+              "signal": "L",
+              "verified_failed_tile": null,
+              "used_failure_memory": false,
+              "action": "L",
+              "safe_tile": "R",
+              "correct": false,
+              "explanation": "Followed noisy local signal L",
+              "candidate_checks": 2
+            },
+            {
+              "step": 16,
+              "turn": "second",
+              "signal": "R",
+              "verified_failed_tile": null,
+              "used_failure_memory": false,
+              "action": "R",
+              "safe_tile": "R",
+              "correct": true,
+              "explanation": "Followed noisy local signal R",
+              "candidate_checks": 2
+            },
+            {
+              "step": 17,
+              "turn": "first",
+              "signal": "L",
+              "verified_failed_tile": null,
+              "used_failure_memory": false,
+              "action": "L",
+              "safe_tile": "L",
+              "correct": true,
+              "explanation": "Followed noisy local signal L",
+              "candidate_checks": 2
+            },
+            {
+              "step": 18,
+              "turn": "second",
+              "signal": "L",
+              "verified_failed_tile": "R",
+              "used_failure_memory": true,
+              "action": "L",
+              "safe_tile": "L",
+              "correct": true,
+              "explanation": "Avoided verified failed R",
+              "candidate_checks": 3
+            },
+            {
+              "step": 19,
+              "turn": "first",
+              "signal": "L",
+              "verified_failed_tile": null,
+              "used_failure_memory": false,
+              "action": "L",
+              "safe_tile": "L",
+              "correct": true,
+              "explanation": "Followed noisy local signal L",
+              "candidate_checks": 2
+            },
+            {
+              "step": 20,
+              "turn": "second",
+              "signal": "L",
+              "verified_failed_tile": "R",
+              "used_failure_memory": true,
+              "action": "L",
+              "safe_tile": "L",
+              "correct": true,
+              "explanation": "Avoided verified failed R",
+              "candidate_checks": 3
+            }
+          ]
+        },
+        "Echo": {
+          "score": 13,
+          "correct": 13,
+          "total": 20,
+          "events": [
+            {
+              "step": 1,
+              "turn": "second",
+              "signal": "R",
+              "verified_failed_tile": null,
+              "used_failure_memory": false,
+              "action": "R",
+              "safe_tile": "L",
+              "correct": false,
+              "explanation": "Followed noisy local signal R",
+              "candidate_checks": 2
+            },
+            {
+              "step": 2,
+              "turn": "first",
+              "signal": "R",
+              "verified_failed_tile": null,
+              "used_failure_memory": false,
+              "action": "R",
+              "safe_tile": "R",
+              "correct": true,
+              "explanation": "Followed noisy local signal R",
+              "candidate_checks": 2
+            },
+            {
+              "step": 3,
+              "turn": "second",
+              "signal": "L",
+              "verified_failed_tile": null,
+              "used_failure_memory": false,
+              "action": "L",
+              "safe_tile": "L",
+              "correct": true,
+              "explanation": "Followed noisy local signal L",
+              "candidate_checks": 2
+            },
+            {
+              "step": 4,
+              "turn": "first",
+              "signal": "R",
+              "verified_failed_tile": null,
+              "used_failure_memory": false,
+              "action": "R",
+              "safe_tile": "R",
+              "correct": true,
+              "explanation": "Followed noisy local signal R",
+              "candidate_checks": 2
+            },
+            {
+              "step": 5,
+              "turn": "second",
+              "signal": "R",
+              "verified_failed_tile": null,
+              "used_failure_memory": false,
+              "action": "R",
+              "safe_tile": "L",
+              "correct": false,
+              "explanation": "Followed noisy local signal R",
+              "candidate_checks": 2
+            },
+            {
+              "step": 6,
+              "turn": "first",
+              "signal": "R",
+              "verified_failed_tile": null,
+              "used_failure_memory": false,
+              "action": "R",
+              "safe_tile": "R",
+              "correct": true,
+              "explanation": "Followed noisy local signal R",
+              "candidate_checks": 2
+            },
+            {
+              "step": 7,
+              "turn": "second",
+              "signal": "L",
+              "verified_failed_tile": null,
+              "used_failure_memory": false,
+              "action": "L",
+              "safe_tile": "L",
+              "correct": true,
+              "explanation": "Followed noisy local signal L",
+              "candidate_checks": 2
+            },
+            {
+              "step": 8,
+              "turn": "first",
+              "signal": "R",
+              "verified_failed_tile": null,
+              "used_failure_memory": false,
+              "action": "R",
+              "safe_tile": "L",
+              "correct": false,
+              "explanation": "Followed noisy local signal R",
+              "candidate_checks": 2
+            },
+            {
+              "step": 9,
+              "turn": "second",
+              "signal": "R",
+              "verified_failed_tile": null,
+              "used_failure_memory": false,
+              "action": "R",
+              "safe_tile": "R",
+              "correct": true,
+              "explanation": "Followed noisy local signal R",
+              "candidate_checks": 2
+            },
+            {
+              "step": 10,
+              "turn": "first",
+              "signal": "R",
+              "verified_failed_tile": null,
+              "used_failure_memory": false,
+              "action": "R",
+              "safe_tile": "R",
+              "correct": true,
+              "explanation": "Followed noisy local signal R",
+              "candidate_checks": 2
+            },
+            {
+              "step": 11,
+              "turn": "second",
+              "signal": "R",
+              "verified_failed_tile": "L",
+              "used_failure_memory": true,
+              "action": "R",
+              "safe_tile": "R",
+              "correct": true,
+              "explanation": "Avoided verified failed L",
+              "candidate_checks": 3
+            },
+            {
+              "step": 12,
+              "turn": "first",
+              "signal": "R",
+              "verified_failed_tile": null,
+              "used_failure_memory": false,
+              "action": "R",
+              "safe_tile": "R",
+              "correct": true,
+              "explanation": "Followed noisy local signal R",
+              "candidate_checks": 2
+            },
+            {
+              "step": 13,
+              "turn": "second",
+              "signal": "L",
+              "verified_failed_tile": "R",
+              "used_failure_memory": true,
+              "action": "L",
+              "safe_tile": "L",
+              "correct": true,
+              "explanation": "Avoided verified failed R",
+              "candidate_checks": 3
+            },
+            {
+              "step": 14,
+              "turn": "first",
+              "signal": "R",
+              "verified_failed_tile": null,
+              "used_failure_memory": false,
+              "action": "R",
+              "safe_tile": "R",
+              "correct": true,
+              "explanation": "Followed noisy local signal R",
+              "candidate_checks": 2
+            },
+            {
+              "step": 15,
+              "turn": "second",
+              "signal": "R",
+              "verified_failed_tile": "L",
+              "used_failure_memory": true,
+              "action": "R",
+              "safe_tile": "R",
+              "correct": true,
+              "explanation": "Avoided verified failed L",
+              "candidate_checks": 3
+            },
+            {
+              "step": 16,
+              "turn": "first",
+              "signal": "R",
+              "verified_failed_tile": null,
+              "used_failure_memory": false,
+              "action": "R",
+              "safe_tile": "R",
+              "correct": true,
+              "explanation": "Followed noisy local signal R",
+              "candidate_checks": 2
+            },
+            {
+              "step": 17,
+              "turn": "second",
+              "signal": "R",
+              "verified_failed_tile": null,
+              "used_failure_memory": false,
+              "action": "R",
+              "safe_tile": "L",
+              "correct": false,
+              "explanation": "Followed noisy local signal R",
+              "candidate_checks": 2
+            },
+            {
+              "step": 18,
+              "turn": "first",
+              "signal": "R",
+              "verified_failed_tile": null,
+              "used_failure_memory": false,
+              "action": "R",
+              "safe_tile": "L",
+              "correct": false,
+              "explanation": "Followed noisy local signal R",
+              "candidate_checks": 2
+            },
+            {
+              "step": 19,
+              "turn": "second",
+              "signal": "R",
+              "verified_failed_tile": null,
+              "used_failure_memory": false,
+              "action": "R",
+              "safe_tile": "L",
+              "correct": false,
+              "explanation": "Followed noisy local signal R",
+              "candidate_checks": 2
+            },
+            {
+              "step": 20,
+              "turn": "first",
+              "signal": "R",
+              "verified_failed_tile": null,
+              "used_failure_memory": false,
+              "action": "R",
+              "safe_tile": "L",
+              "correct": false,
+              "explanation": "Followed noisy local signal R",
+              "candidate_checks": 2
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "model_type": "algorithmic_policy_simulation",
+  "reality_check": "No LLM inference, no hidden chain of thought, no human participants."
+}
